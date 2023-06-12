@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharsThickAtlas1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 88c9b420b30cc4579ba32fc41cd9179a, type: 3}
+    - {fileID: 2800000, guid: 2575504434289437dbea9465f168d402, type: 3}
+    - {fileID: 2800000, guid: 0fd3dbc8eb14f4b7ca018d2a11fe13ff, type: 3}
+    - {fileID: 2800000, guid: 30bc84143489a47d48e951f6182b9c77, type: 3}
+    - {fileID: 2800000, guid: be13597176c9c478f9881220c516c360, type: 3}
+    - {fileID: 2800000, guid: db78c2526de8b436cb17f69c46bc390c, type: 3}
+    - {fileID: 2800000, guid: cd432bbcd434b43d89845fe45c58c7cb, type: 3}
+    totalSpriteSurfaceArea: 131733
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 88c9b420b30cc4579ba32fc41cd9179a, type: 3}
+  - {fileID: 21300000, guid: be13597176c9c478f9881220c516c360, type: 3}
+  - {fileID: 21300000, guid: db78c2526de8b436cb17f69c46bc390c, type: 3}
+  - {fileID: 21300000, guid: 30bc84143489a47d48e951f6182b9c77, type: 3}
+  - {fileID: 21300000, guid: 2575504434289437dbea9465f168d402, type: 3}
+  - {fileID: 21300000, guid: 0fd3dbc8eb14f4b7ca018d2a11fe13ff, type: 3}
+  - {fileID: 21300000, guid: cd432bbcd434b43d89845fe45c58c7cb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Chars_thick-01
+  - Chars_thick-05
+  - Chars_thick-06
+  - Chars_thick-04
+  - Chars_thick-02
+  - Chars_thick-03
+  - Chars_thick-07
+  m_Tag: CharsThickAtlas1
+  m_IsVariant: 0

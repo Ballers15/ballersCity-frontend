@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cef36a3301c6a6842bd8e72c54e41ceb, type: 3}
+  m_Name: AudioClipFactory
+  m_EditorClassIdentifier: 
+  audioClips:
+  - name: Button Click
+    clip: {fileID: 8300000, guid: c24d5e5184dc1ac4d9df5dc2c6c9bc79, type: 3}
+    isMusic: 0
+  - name: Character Selection
+    clip: {fileID: 8300000, guid: cb0a72a868e6c4044ab0233c0a956467, type: 3}
+    isMusic: 0
+  - name: Home
+    clip: {fileID: 8300000, guid: 47d7848b666048b4b9493a274fd99b0a, type: 3}
+    isMusic: 1
+  - name: Opponents
+    clip: {fileID: 8300000, guid: 88b8064de6802be45a17a54e5ad06980, type: 3}
+    isMusic: 1
+  - name: GamePlayForest
+    clip: {fileID: 8300000, guid: 48e960884532a0f4e98a7184df1e0b9b, type: 3}
+    isMusic: 1
+  - name: WinGRP
+    clip: {fileID: 8300000, guid: 026a16e9585da824aac7ece0d104c3df, type: 3}
+    isMusic: 0
+  - name: DefeatGRP
+    clip: {fileID: 8300000, guid: 2796b8109c50c2c4c8e1b29463cd687e, type: 3}
+    isMusic: 0
+  - name: GameOverWinScreen
+    clip: {fileID: 8300000, guid: 379a367396e62be47a0f8797a4849c6e, type: 3}
+    isMusic: 0
+  - name: GameOverLostScreen
+    clip: {fileID: 8300000, guid: 97babcedcf7bcf74ba4e1ef86ebfbca5, type: 3}
+    isMusic: 0

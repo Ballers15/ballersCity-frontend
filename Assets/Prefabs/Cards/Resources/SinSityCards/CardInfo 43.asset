@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 43
+  m_EditorClassIdentifier: 
+  _id: card_idle_15_char_1
+  _name: Dennis Deep
+  _description: "Recently released from prison, Dennis Deep still gets the strict
+    attention of the police. Few believe that the greatest casino robber has suddenly
+    decided to quit. And that\u2019s true, Denny will never quit. He may pretend
+    to be an innocent lamb, but his eleven friends have already gathered to develop
+    a plan to rob three casinos belonging to Quentin Sanders, the key witness in
+    Denny\u2019s old cases."
+  _sortingOrder: 43
+  _activeSprite: {fileID: 21300000, guid: 5a643683623c0d940ad7f29d86653fcf, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 06bdf56caf2a812449c7c24fcb6ab1b8, type: 3}

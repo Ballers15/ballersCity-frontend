@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 321e62ebc07f9374cb5685b43a5abe4e, type: 3}
+  m_Name: AdAirShipController
+  m_EditorClassIdentifier: 
+  m_params:
+    parcelSupplierAsset: {fileID: 11400000, guid: cb0d482ff427fdc45bc34ae631b54db0,
+      type: 2}
+    m_spawnParams:
+      standardSpawnPeriod: 45
+      standardSpawnPeriodDeviation: 15
+      extraSpawnPeriod: 60
+      extraSpawnPerionDeviation: 1
+      centerDeviationX: 0
+      maxDeviationY: -0.25
+    m_airShipPrefab: {fileID: 6790756630372283867, guid: 863a68e5a48e13645b0955544f14c3f3,
+      type: 3}
+    inactiveScreenLifetime: 20

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a358a47fb1132943ad70eee1e9cfe80, type: 3}
+  m_Name: NotificationData
+  m_EditorClassIdentifier: 
+  autoHidePopup: {fileID: 8760737190271606254, guid: 002ab5b916b5b4c4f91e7f993111eef6, type: 3}
+  confirmPopup: {fileID: 8760737190271606254, guid: 3ce149507ea0f8e46b04caf11830d896, type: 3}
+  loadingPopup: {fileID: 8729959906607192104, guid: d123e97dcdbe6b54bbc63a50dbfe2ce3, type: 3}
+  data: []

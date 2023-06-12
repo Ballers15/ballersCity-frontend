@@ -1,0 +1,57 @@
+Angie_Barrera.png
+size:971,971
+filter:Linear,Linear
+pma:true
+Shadow
+bounds:749,579,390,121
+rotate:90
+arm1
+bounds:2,10,251,285
+rotate:90
+armw
+bounds:289,76,119,373
+rotate:90
+armw Copy
+bounds:585,4,70,89
+rotate:90
+armw Copy 2
+bounds:872,554,95,216
+armw Copy 3
+bounds:872,772,97,197
+b1
+bounds:367,2,54,25
+b2
+bounds:676,183,74,27
+body
+bounds:2,263,345,706
+hair
+bounds:676,212,288,167
+rotate:90
+head
+bounds:349,197,325,303
+s1
+bounds:423,2,25,50
+rotate:90
+s2
+bounds:946,506,23,46
+siga1
+bounds:489,29,94,45
+smoke
+bounds:349,502,398,467
+step
+bounds:289,2,72,76
+rotate:90
+step2
+bounds:749,502,70,75
+w1
+bounds:845,283,120,112
+rotate:90
+w2
+bounds:845,405,99,147
+w3
+bounds:845,193,88,101
+rotate:90
+w3 Copy
+bounds:289,215,36,46
+w4
+bounds:367,29,120,45

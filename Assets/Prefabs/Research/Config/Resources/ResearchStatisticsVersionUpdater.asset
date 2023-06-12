@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a704b0e62d0483dac566539a4024557, type: 3}
+  m_Name: ResearchStatisticsVersionUpdater
+  m_EditorClassIdentifier: 
+  startDataStatistics:
+    researchDataSet:
+    - id: research_lab
+      isEnabled: 0
+      remainingTimeSec: 0
+      isRewardReady: 0
+      priceBigNumberStr: 1000
+    - id: research_field
+      isEnabled: 0
+      remainingTimeSec: 0
+      isRewardReady: 0
+      priceBigNumberStr: 1000
+    - id: research_geo
+      isEnabled: 0
+      remainingTimeSec: 0
+      isRewardReady: 0
+      priceBigNumberStr: 1000
+    - id: research_complex
+      isEnabled: 0
+      remainingTimeSec: 0
+      isRewardReady: 0
+      priceBigNumberStr: 0

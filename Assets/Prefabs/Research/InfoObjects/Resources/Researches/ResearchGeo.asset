@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f84862ee5071f4501bc60846ba19e7d9, type: 3}
+  m_Name: ResearchGeo
+  m_EditorClassIdentifier: 
+  id: research_geo
+  titleCode: ID_RESEARCH_GEO_TITLE
+  descriptionCode: ID_RESEARCH_GEO_DESC
+  durationSeconds: 43200
+  rewardInfo: {fileID: 11400000, guid: 9aded4151d6f44ff789f3f1ddcbffe35, type: 2}
+  minPrice:
+    value: 1
+    order: 1
+  priceByIncomePerSeconds: 200

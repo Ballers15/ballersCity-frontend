@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 42
+  m_EditorClassIdentifier: 
+  _id: card_idle_14_char_3
+  _name: Walter Black
+  _description: "This former chemistry teacher has never had much luck with money.
+    Once, his wife needed expensive treatment, and he didn\u2019t find a better way
+    out than resorting to the help of the Cartel. Now he makes drugs. An upstanding
+    man in general, Walter tries to preserve the last bits of humanity in himself,
+    but the harsh criminal world forces him to compromise every day. Walter is not
+    sure if he is still the same person that knocked on the Cartel\u2019s door several
+    years ago."
+  _sortingOrder: 42
+  _activeSprite: {fileID: 21300000, guid: ac68cd924205f7d499ac0bbc96e40d7b, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 67814e756e3300d42beacb0fc0603deb, type: 3}

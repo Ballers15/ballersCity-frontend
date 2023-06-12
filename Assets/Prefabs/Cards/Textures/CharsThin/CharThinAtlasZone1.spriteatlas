@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharThinAtlasZone1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 355eba61e0c57ea429c2fb8f0fc13df2, type: 3}
+    - {fileID: 2800000, guid: 7736ae44c54419f4e84fcc3134be4630, type: 3}
+    - {fileID: 2800000, guid: da7f5c00e20174e4db89c487b29f389e, type: 3}
+    - {fileID: 2800000, guid: 1fb701e469b14334eaaacdbd0a92e1e2, type: 3}
+    - {fileID: 2800000, guid: 1300df547bf2d2f488c42314e84b6520, type: 3}
+    - {fileID: 2800000, guid: 0bd337773a84de84e9590133421e873e, type: 3}
+    - {fileID: 2800000, guid: b3fa67451d632ae469d97354841541e3, type: 3}
+    totalSpriteSurfaceArea: 451668
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: da7f5c00e20174e4db89c487b29f389e, type: 3}
+  - {fileID: 21300000, guid: 355eba61e0c57ea429c2fb8f0fc13df2, type: 3}
+  - {fileID: 21300000, guid: 7736ae44c54419f4e84fcc3134be4630, type: 3}
+  - {fileID: 21300000, guid: 1300df547bf2d2f488c42314e84b6520, type: 3}
+  - {fileID: 21300000, guid: 1fb701e469b14334eaaacdbd0a92e1e2, type: 3}
+  - {fileID: 21300000, guid: b3fa67451d632ae469d97354841541e3, type: 3}
+  - {fileID: 21300000, guid: 0bd337773a84de84e9590133421e873e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Char_thin_03
+  - Char_thin_01
+  - Char_thin_02
+  - Char_thin_05
+  - Char_thin_04
+  - Char_thin_07
+  - Char_thin_06
+  m_Tag: CharThinAtlasZone1
+  m_IsVariant: 0

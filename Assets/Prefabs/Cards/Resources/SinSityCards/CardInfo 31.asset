@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 31
+  m_EditorClassIdentifier: 
+  _id: card_idle_11_char_1
+  _name: Insane Max
+  _description: "No one knows where he came from. And asking Max himself is not an
+    option. Max doesn\u2019t talk to people. He talks to cars only. He\u2019s obsessed
+    with cars and knows well that the wasteland is a perfect place for this business.
+    Max is an excellent mechanic and racer. His trusted men organize bloody races,
+    where daredevils fight for the second place, as the first one is always taken
+    by Max himself."
+  _sortingOrder: 31
+  _activeSprite: {fileID: 21300000, guid: a4f66b7b8cfeef74295a782eb9501913, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 300e001e4cd5692418546709ebf222dd, type: 3}

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0863bf92b4fcc45b0b9267325249bf0f, type: 3}
+  m_Name: NotificationSettings
+  m_EditorClassIdentifier: 
+  toolbarInt: 0
+  iOSNotificationEditorSettingsValues:
+    keys:
+    - UnityNotificationRequestAuthorizationOnAppLaunch
+    - UnityNotificationDefaultAuthorizationOptions
+    - UnityAddRemoteNotificationCapability
+    - UnityNotificationRequestAuthorizationForRemoteNotificationsOnAppLaunch
+    - UnityRemoteNotificationForegroundPresentationOptions
+    - UnityUseAPSReleaseEnvironment
+    - UnityUseLocationNotificationTrigger
+    values:
+    - True
+    - 7
+    - False
+    - False
+    - -1
+    - False
+    - False
+  AndroidNotificationEditorSettingsValues:
+    keys:
+    - UnityNotificationAndroidRescheduleOnDeviceRestart
+    - UnityNotificationAndroidUseCustomActivity
+    - UnityNotificationAndroidCustomActivityString
+    values:
+    - True
+    - False
+    - com.unity3d.player.UnityPlayerActivity
+  TrackedResourceAssets:
+  - Id: icon_small
+    Type: 0
+    Asset: {fileID: 2800000, guid: 997f6240fa534d745817ba79dea560b7, type: 3}
+  - Id: icon_large_daily
+    Type: 1
+    Asset: {fileID: 2800000, guid: 97ea6a42ffec2a1418aeedff10813c49, type: 3}
+  - Id: icon_large_comeback
+    Type: 1
+    Asset: {fileID: 2800000, guid: 1061530b304fa4547b0fb43cb1eeadec, type: 3}
+  - Id: icon_large_research
+    Type: 1
+    Asset: {fileID: 2800000, guid: 02de26baf9efdb344b56778932eaf2d9, type: 3}

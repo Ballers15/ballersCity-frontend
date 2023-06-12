@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 49
+  m_EditorClassIdentifier: 
+  _id: card_idle_17_char_1
+  _name: Pepe Chester
+  _description: "Rich people like to dress well \u2013 natural fabrics, fur, leather\u2026
+    That means Pepe will have to roll up his sleeves and do his job. The Harbor is
+    crawling with poachers, but Pepe is the best of them. He knows his way around
+    both fish and animals. He is smart, patient and fearless. But he always says
+    that there is one beast that he will not approach for any money. Moreover, it
+    was prohibited by the court in the divorce process."
+  _sortingOrder: 49
+  _activeSprite: {fileID: 21300000, guid: a9b9f347af9151a4ea9a548c9c1ef261, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 36c31f6a0f6db7c4a802012875a2cd07, type: 3}

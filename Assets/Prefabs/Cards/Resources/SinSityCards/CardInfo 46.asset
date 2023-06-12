@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 46
+  m_EditorClassIdentifier: 
+  _id: card_idle_16_char_1
+  _name: Fernando Luciano
+  _description: "Fernando is Giovanni Luciano\u2019s blood brother, but he has an
+    absolutely different fate. Unlike his brother, he ignored the Family and set
+    out to conquer the slums. There are no dons or kings there, and large machetes
+    have replaced guns. Fernando is quite happy with this \u2013 he sees some sort
+    of romance in it. Today he is the local Robin Hood who fights a never-ending
+    war against big landowners."
+  _sortingOrder: 46
+  _activeSprite: {fileID: 21300000, guid: 0656bf31af6fd3046b4aa429cecb2c95, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 1f4ce1b273505e04999b04b07d79a91d, type: 3}

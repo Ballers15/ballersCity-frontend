@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8151de0aa86e4747bed58ee956b42fac, type: 3}
+  m_Name: AirShipParcelSupplierAD
+  m_EditorClassIdentifier: 
+  standardParams:
+    adsRewardNumber: 2
+    adsRewardDeviation: 2
+  luckyPipeline:
+    parcelArray: []
+  standardPipeline:
+    noAdsRewardInfoBuilderProbArray: []
+    adsRewardInfoBuilderProbArray:
+    - probability: 50
+      rewardInfoBuilder: {fileID: 11400000, guid: 3e5cc0d212a24483497fca799eeadf1f,
+        type: 2}
+    - probability: 14
+      rewardInfoBuilder: {fileID: 11400000, guid: 360193b47886a4ad5aa0b842160c7c75,
+        type: 2}
+    - probability: 14
+      rewardInfoBuilder: {fileID: 11400000, guid: 48aacc1948927498a91aee16d3bf354a,
+        type: 2}
+    - probability: 12
+      rewardInfoBuilder: {fileID: 11400000, guid: 275e93f5e3f8a414ea5b24da366435d1,
+        type: 2}
+    - probability: 10
+      rewardInfoBuilder: {fileID: 11400000, guid: c5487b7a4821e47dcba817aa4f412d91,
+        type: 2}
+  jackpotNotRequired: 1

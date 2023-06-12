@@ -1,0 +1,67 @@
+Charon.png
+size:1109,1109
+filter:Linear,Linear
+pma:true
+Layer 1
+bounds:910,115,139,119
+Shadow
+bounds:430,928,615,179
+arm1 Copy
+bounds:936,441,95,208
+arm1 Copy 2
+bounds:910,236,91,195
+arm2
+bounds:814,203,94,203
+arm2 Copy
+bounds:1003,250,89,189
+b1
+bounds:390,26,104,377
+rotate:90
+b2
+bounds:2,29,105,386
+rotate:90
+belt1
+bounds:733,651,275,294
+rotate:90
+belt2
+bounds:1029,700,226,56
+rotate:90
+body1
+bounds:411,329,239,306
+box
+bounds:2,136,513,356
+rotate:90
+box Copy
+bounds:360,136,513,49
+rotate:90
+eye1
+bounds:1047,1078,57,29
+eye2
+bounds:1033,463,54,28
+foot
+bounds:769,6,76,99
+rotate:90
+foot Copy
+bounds:1033,607,74,91
+hair
+bounds:836,433,98,216
+hair Copy
+bounds:722,198,90,208
+hand1
+bounds:1033,493,72,112
+hand12
+bounds:769,84,72,112
+hand2
+bounds:870,41,72,112
+rotate:90
+hat
+bounds:411,132,309,195
+head
+bounds:652,408,182,227
+leg
+bounds:430,637,289,301
+rotate:90
+mouth
+bounds:652,390,68,16
+scarf
+bounds:2,651,426,456

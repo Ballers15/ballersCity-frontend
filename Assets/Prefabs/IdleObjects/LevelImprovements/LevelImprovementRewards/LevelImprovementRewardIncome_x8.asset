@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 667f872a4f83c6a458a4726e15e78bfb, type: 3}
+  m_Name: LevelImprovementRewardIncome_x8
+  m_EditorClassIdentifier: 
+  m_id: 
+  m_title: ID_LB_REWARD_INCOME
+  m_description: ID_DESC_LB_REWARD_INCOME
+  m_spriteIcon: {fileID: 0}
+  incomeBoost: 8

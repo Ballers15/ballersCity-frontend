@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32f8893451d8411ea05efaf24972d36e, type: 3}
+  m_Name: GemTreeInfo_KIRILL
+  m_EditorClassIdentifier: 
+  treeLevels:
+  - upgradePrice:
+      cutValue: 40
+      order: 3
+    maxProgress: 50
+    openBranchesIdSet:
+    - 1
+  - upgradePrice:
+      cutValue: 2.4
+      order: 4
+    maxProgress: 50
+    openBranchesIdSet:
+    - 2
+  - upgradePrice:
+      cutValue: 144.5
+      order: 4
+    maxProgress: 50
+    openBranchesIdSet:
+    - 3
+  - upgradePrice:
+      cutValue: 8.5
+      order: 5
+    maxProgress: 50
+    openBranchesIdSet:
+    - 4
+  - upgradePrice:
+      cutValue: 501.1
+      order: 5
+    maxProgress: 50
+    openBranchesIdSet:
+    - 5
+  - upgradePrice:
+      cutValue: 29.5
+      order: 6
+    maxProgress: 50
+    openBranchesIdSet:
+    - 6
+  - upgradePrice:
+      cutValue: 1.7
+      order: 7
+    maxProgress: 50
+    openBranchesIdSet:
+    - 7
+  - upgradePrice:
+      cutValue: 102.3
+      order: 7
+    maxProgress: 50
+    openBranchesIdSet:
+    - 8
+  - upgradePrice:
+      cutValue: 6
+      order: 8
+    maxProgress: 50
+    openBranchesIdSet:
+    - 9
+  - upgradePrice:
+      cutValue: 354.8
+      order: 8
+    maxProgress: 50
+    openBranchesIdSet:
+    - 10
+  - upgradePrice:
+      cutValue: 20.8
+      order: 9
+    maxProgress: 50
+    openBranchesIdSet:
+    - 11
+  - upgradePrice:
+      cutValue: 1.2
+      order: 10
+    maxProgress: 50
+    openBranchesIdSet:
+    - 12
+  - upgradePrice:
+      cutValue: 72.4
+      order: 10
+    maxProgress: 50
+    openBranchesIdSet:
+    - 13
+  - upgradePrice:
+      cutValue: 4.2
+      order: 11
+    maxProgress: 50
+    openBranchesIdSet:
+    - 14
+  - upgradePrice:
+      cutValue: 251.1
+      order: 11
+    maxProgress: 50
+    openBranchesIdSet:
+    - 15
+  - upgradePrice:
+      cutValue: 14.7
+      order: 12
+    maxProgress: 50
+    openBranchesIdSet:
+    - 16
+  - upgradePrice:
+      cutValue: 870.9
+      order: 12
+    maxProgress: 50
+    openBranchesIdSet:
+    - 17
+  - upgradePrice:
+      cutValue: 51.2
+      order: 13
+    maxProgress: 50
+    openBranchesIdSet:
+    - 18
+  - upgradePrice:
+      cutValue: 3
+      order: 14
+    maxProgress: 50
+    openBranchesIdSet:
+    - 19
+  - upgradePrice:
+      cutValue: 177.8
+      order: 14
+    maxProgress: 50
+    openBranchesIdSet:
+    - 20

@@ -1,0 +1,71 @@
+Stephen_Void.png
+size:852,852
+filter:Linear,Linear
+pma:true
+Layer 2
+bounds:414,305,57,17
+rotate:90
+Layer 3
+bounds:305,9,45,24
+Oko
+bounds:267,35,263,93
+rotate:90
+Shadow
+bounds:723,169,398,119
+rotate:90
+arm1
+bounds:2,308,135,311
+rotate:90
+arm2
+bounds:2,15,79,253
+rotate:90
+arm2 Copy
+bounds:731,684,108,166
+bakpack
+bounds:449,44,218,235
+body
+bounds:2,445,449,405
+brown
+bounds:759,33,61,42
+brown1
+bounds:414,364,79,28
+rotate:90
+eye1
+bounds:257,9,46,24
+eye2
+bounds:737,22,64,20
+rotate:90
+foot1
+bounds:669,88,79,91
+rotate:90
+foot2
+bounds:762,77,79,90
+hair1
+bounds:2,96,263,210
+hair2
+bounds:362,14,170,74
+rotate:90
+hand
+bounds:731,584,98,119
+rotate:90
+hand Copy
+bounds:362,186,85,112
+hand Copy 2
+bounds:669,3,60,60
+hand Copy 3
+bounds:669,195,84,52
+rotate:90
+head
+bounds:453,569,281,276
+rotate:90
+leg
+bounds:453,281,286,268
+rotate:90
+mouth
+bounds:669,65,66,21
+mouth Copy 2
+bounds:433,332,30,14
+rotate:90
+phone
+bounds:315,300,143,97
+rotate:90

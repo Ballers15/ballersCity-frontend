@@ -1,0 +1,13 @@
+Love_stuff.png
+size:531,531
+filter:Linear,Linear
+pma:true
+Condom
+bounds:278,144,194,218
+rotate:90
+Heart
+bounds:2,257,274,272
+Lips
+bounds:278,340,251,189
+Shadow
+bounds:2,32,392,110

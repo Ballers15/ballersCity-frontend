@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1437c455b20f5ba458e2f16e34e09ecf, type: 3}
+  m_Name: AchievementInfoUpgrIdle
+  m_EditorClassIdentifier: 
+  m_id: CgkIkfWUrucQEAIQBA
+  m_name: To infinity... and beyond!
+  m_descr: Upgrade at least 1 object to level 100
+  m_isHidden: 0
+  m_icon: {fileID: 0}
+  lvlToUpgrade: 100
+  needToUpgradeCount: 1

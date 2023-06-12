@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c19de8c587054fefbc0df513f0195f86, type: 3}
+  m_Name: TutorialStagePipeline
+  m_EditorClassIdentifier: 
+  m_params:
+    m_tutorialStageControllerAssets:
+    - {fileID: 11400000, guid: 90b6dd99de04a41b2894f1d01c88409f, type: 2}
+    - {fileID: 11400000, guid: 1550a46a498554bbeb55c557288741b9, type: 2}
+    - {fileID: 11400000, guid: 7cbe38d0ab290477abcc7e7f021aba48, type: 2}
+    - {fileID: 11400000, guid: 79da4565bb5109b4c92a649105744930, type: 2}

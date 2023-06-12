@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a47af290a5cc4905824c3ea0d51c32a2, type: 3}
+  m_Name: 3. ProductInfoGoldCase
+  m_EditorClassIdentifier: 
+  id: gold_case
+  titleCode: ID_CASE_GOLD
+  descriptionCode: '-'
+  spriteIcon: {fileID: 21300000, guid: 956e5fd8722bf654891e87068ef402d8, type: 3}
+  m_paymentType: 4
+  m_price: 0
+  m_isConsumable: 1
+  m_rewardInfoPersonageCard: {fileID: 11400000, guid: 59dc3ed73075b474d8d1cb223dd7c7e4, type: 2}
+  chanceGroupWithCountPersonageCard:
+    values:
+    - chance: 70
+      countMin: 10
+      countMax: 15
+    - chance: 30
+      countMin: 15
+      countMax: 20
+  m_rewardInfoSoftCurrency: {fileID: 11400000, guid: 03c5819132d0ac24e9c6aa0f5e9e96eb, type: 2}
+  chanceGroupWithCountSoftCurrency:
+    values:
+    - chance: 80
+      countMin: 600
+      countMax: 1200
+    - chance: 15
+      countMin: 1200
+      countMax: 1800
+    - chance: 5
+      countMin: 1800
+      countMax: 2400
+  m_rewardInfoHardCurrency: {fileID: 11400000, guid: 4339ef49bf2dfaa40b3f2e72edb53058, type: 2}
+  chanceGroupWithCountHardCurrency:
+    values:
+    - chance: 70
+      countMin: 100
+      countMax: 100
+    - chance: 30
+      countMin: 150
+      countMax: 150
+  chanceGroupTimeBoosters:
+    values:
+    - rewardInfoTimeBooster: {fileID: 11400000, guid: c0a9e93ca55a1f947a4d31edbc5bae85, type: 2}
+      chance: 70
+      countMin: 2
+      countMax: 2
+    - rewardInfoTimeBooster: {fileID: 11400000, guid: 853ae5b53900faf46b646043c3cdfbf4, type: 2}
+      chance: 24
+      countMin: 1
+      countMax: 1
+    - rewardInfoTimeBooster: {fileID: 11400000, guid: 09d4f3a8d94e04cd29f90cd15d678089, type: 2}
+      chance: 6
+      countMin: 1
+      countMax: 1

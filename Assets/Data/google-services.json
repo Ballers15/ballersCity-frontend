@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "892743020144",
+    "firebase_url": "https://ecoclicker.firebaseio.com",
+    "project_id": "ecoclicker",
+    "storage_bucket": "ecoclicker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892743020144:android:6f9dfae7e776d28d750eb5",
+        "android_client_info": {
+          "package_name": "com.MadDiamond.EcoClicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892743020144-r62bom4vsebcrjgc7eu48ktqkdtkvag5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmhZib3NXAesLoeHpcrpB2bjsiCUOdhCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892743020144-r62bom4vsebcrjgc7eu48ktqkdtkvag5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892743020144-hga2n0fcf508t81mct40c1tobsnr8lip.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MadDiamond.EcoClicker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

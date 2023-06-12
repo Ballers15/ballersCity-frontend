@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 29
+  m_EditorClassIdentifier: 
+  _id: card_idle_10_char_2
+  _name: Fleawort
+  _description: "The Master\u2019s real name is now forgotten, as he is the oldest
+    man in Chinatown. He can\u2019t lift a sword, he shoots poorly, and he can\u2019t
+    run at all, but he is still valued and respected. Why wouldn\u2019t he, since
+    lotuses come from under his fingers looking like real ones, and dragons seem
+    to move on their own! This old man is the greatest tattoo master, both here and
+    back home. Despite his impressive age, his hands never shake, and his eyes are
+    as sharp as they used to be in his youth."
+  _sortingOrder: 29
+  _activeSprite: {fileID: 21300000, guid: 0abb71dfe1a15dc41b0b66787bc13b25, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: a4c96aab77c38844298e456882bbb32b, type: 3}

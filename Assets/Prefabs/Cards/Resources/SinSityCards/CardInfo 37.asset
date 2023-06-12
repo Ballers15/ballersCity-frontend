@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 37
+  m_EditorClassIdentifier: 
+  _id: card_idle_13_char_1
+  _name: Estella Queen
+  _description: "She is the fashion queen, a brilliant fashion designer and an odious
+    person. Owners of the biggest fashion houses and luxury goods dealers line up
+    to order a new trinket or clothes which become a work of art once she makes them.
+    If they only knew how Estella had achieved all that\u2026 She blackmailed, kidnapped,
+    killed people and even animals! Victims laid in the foundation of her podium
+    number in the hundreds."
+  _sortingOrder: 37
+  _activeSprite: {fileID: 21300000, guid: 9535df4c29308b4418857db8854cb6e9, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 60af0b9728aff614ca121c84e243d610, type: 3}

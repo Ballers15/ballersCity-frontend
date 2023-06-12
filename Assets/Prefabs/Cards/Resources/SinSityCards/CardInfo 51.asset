@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 51
+  m_EditorClassIdentifier: 
+  _id: card_idle_17_char_3
+  _name: Charon
+  _description: "There are thousands of ways to get rid of a witness, but asking
+    Charon for help is the best one. Bones can be dug out, a single hair is enough
+    to get DNA, but the sea\u2026 The sea keeps secrets like no one else. Those who
+    find themselves in the hold of Charon\u2019s ship never come back. And \u2013
+    an amazing coincidence! \u2013 the police abandons searches for these unfortunates
+    faster than usual. Charon is not surprised by this fact, he believes in the mystical
+    power of the sea."
+  _sortingOrder: 51
+  _activeSprite: {fileID: 21300000, guid: c6ba4ff7720140946a1576d195180feb, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: f27e952e67a47ee4d8bd65a7cc0b3503, type: 3}

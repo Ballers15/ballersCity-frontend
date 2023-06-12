@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8ea5bab4d8c84db0836f1ab9a46fe1f9, type: 3}
+  m_Name: CoffeeBoostConfig 3
+  m_EditorClassIdentifier: 
+  _cupPrefabForGameplayScreen: {fileID: 3038771886472942400, guid: b118d41de2014f84a818da015fa2f0bf,
+    type: 3}
+  _cupPrefabForPopup: {fileID: 5432278909101069951, guid: 47674eb1b061c3b46b2e046097be8d04,
+    type: 3}
+  m_duration: 30
+  m_boostTimeScale: 5

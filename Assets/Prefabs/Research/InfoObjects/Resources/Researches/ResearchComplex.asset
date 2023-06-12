@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbbff376c8ad4d35839f94ba07085a5f, type: 3}
+  m_Name: ResearchComplex
+  m_EditorClassIdentifier: 
+  id: research_complex
+  titleCode: ID_RESEARCH_COMPLEX_TITLE
+  descriptionCode: ID_RESEARCH_COMPLEX_DESC
+  durationSeconds: 43200
+  rewardInfo: {fileID: 11400000, guid: b5c7181b1bd744175aa2f61ee6b72ae3, type: 2}

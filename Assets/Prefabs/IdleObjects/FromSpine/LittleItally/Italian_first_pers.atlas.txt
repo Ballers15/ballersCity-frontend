@@ -1,0 +1,55 @@
+Italian_first_pers.png
+size:967,398
+filter:Linear,Linear
+pma:true
+Cap_back
+bounds:515,13,237,75
+offsets:1,1,239,77
+Cap_front
+bounds:664,96,239,115
+offsets:1,1,241,117
+Eye
+bounds:247,8,16,21
+offsets:2,3,18,24
+rotate:90
+Hand_L 1
+bounds:131,3,114,84
+offsets:1,1,116,86
+Hand_L 2
+bounds:2,2,85,127
+offsets:1,1,87,129
+rotate:90
+Hand_R
+bounds:874,293,91,103
+Head
+bounds:311,9,189,202
+offsets:1,1,191,204
+rotate:90
+Legs
+bounds:311,200,196,274
+offsets:0,0,208,274
+rotate:90
+Mouth
+bounds:247,26,61,45
+offsets:1,1,63,48
+rotate:90
+Shadow
+bounds:905,56,235,52
+offsets:1,1,237,54
+rotate:90
+Shoulder_L
+bounds:754,15,79,141
+offsets:1,1,81,143
+rotate:90
+Shoulder_R
+bounds:515,96,59,102
+baseball bat
+bounds:587,90,75,306
+offsets:1,1,77,308
+baseball bat копия 2
+bounds:2,89,307,307
+offsets:2,1,310,309
+Слой 21
+bounds:664,213,183,208
+offsets:8,0,191,208
+rotate:90

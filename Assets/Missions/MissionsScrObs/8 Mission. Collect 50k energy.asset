@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad3ce7d0ae826ae4a98b306da470cfaa, type: 3}
+  m_Name: 8 Mission. Collect 50k energy
+  m_EditorClassIdentifier: 
+  m_titleCode: ID_MISSION_2_TITLE
+  m_descCode: ID_MISSION_COLLECT_ENERGY
+  reward: {fileID: 11400000, guid: 34a31add2db870743b936def8a465189, type: 2}
+  rewardAttributes:
+    m_count: 5
+    m_bigCount:
+      editorNumberType: 0
+      editorValue: 0
+    m_idleObjectNumber: 1
+  trasholdEditor:
+    editorNumberType: 1
+    editorValue: 50

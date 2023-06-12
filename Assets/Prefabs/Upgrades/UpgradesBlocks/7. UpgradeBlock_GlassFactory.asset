@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa433ef9058e8db43bf54096a71cd1db, type: 3}
+  m_Name: 7. UpgradeBlock_GlassFactory
+  m_EditorClassIdentifier: 
+  upgradeInfoPool:
+  - m_upgrade: {fileID: 11400000, guid: ed607a18f9e600b4c9fbec5b96a5c6db, type: 2}
+    m_idleObjectIndex: 6
+    m_price:
+      editorNumberType: 4
+      editorValue: 3
+  - m_upgrade: {fileID: 11400000, guid: 4d323955e39bc5d4588f8a4f2b814e27, type: 2}
+    m_idleObjectIndex: 6
+    m_price:
+      editorNumberType: 4
+      editorValue: 9
+  - m_upgrade: {fileID: 11400000, guid: c3184a97bd2ff6f4d91b0b60c3165718, type: 2}
+    m_idleObjectIndex: 0
+    m_price:
+      editorNumberType: 4
+      editorValue: 27
+  - m_upgrade: {fileID: 11400000, guid: d76a422caef16b94e8a029d7cba313f1, type: 2}
+    m_idleObjectIndex: 0
+    m_price:
+      editorNumberType: 4
+      editorValue: 81
+  - m_upgrade: {fileID: 11400000, guid: 4d323955e39bc5d4588f8a4f2b814e27, type: 2}
+    m_idleObjectIndex: 0
+    m_price:
+      editorNumberType: 4
+      editorValue: 243
+  - m_upgrade: {fileID: 11400000, guid: 4d323955e39bc5d4588f8a4f2b814e27, type: 2}
+    m_idleObjectIndex: 1
+    m_price:
+      editorNumberType: 4
+      editorValue: 729
+  - m_upgrade: {fileID: 11400000, guid: 4d323955e39bc5d4588f8a4f2b814e27, type: 2}
+    m_idleObjectIndex: 5
+    m_price:
+      editorNumberType: 5
+      editorValue: 2
+  - m_upgrade: {fileID: 11400000, guid: 4d323955e39bc5d4588f8a4f2b814e27, type: 2}
+    m_idleObjectIndex: 3
+    m_price:
+      editorNumberType: 5
+      editorValue: 7
+  - m_upgrade: {fileID: 11400000, guid: 4d323955e39bc5d4588f8a4f2b814e27, type: 2}
+    m_idleObjectIndex: 4
+    m_price:
+      editorNumberType: 5
+      editorValue: 20
+  - m_upgrade: {fileID: 11400000, guid: 4d323955e39bc5d4588f8a4f2b814e27, type: 2}
+    m_idleObjectIndex: 5
+    m_price:
+      editorNumberType: 5
+      editorValue: 59

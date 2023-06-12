@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 14
+  m_EditorClassIdentifier: 
+  _id: card_idle_5_char_2
+  _name: Angelica Wetton
+  _description: "She\u2019s incredibly rich, gorgeous and freaking dangerous, as
+    she has the largest army of mercenaries. Angelica is obsessed with war, and her
+    people have participated in all local conflicts of the recent years. Even when
+    she wears a dress, it\u2019s camouflage, and  there are army knives hidden under
+    each garter."
+  _sortingOrder: 14
+  _activeSprite: {fileID: 21300000, guid: f0f81191f26706e48988672ad84442fa, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: b818f49bb2ef0e94c9ae939d78383a5d, type: 3}

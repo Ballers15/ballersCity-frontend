@@ -1,0 +1,7 @@
+Small Italy.png
+size:849,745
+filter:Linear,Linear
+pma:true
+BG
+bounds:2,2,845,741
+offsets:37,192,914,1029

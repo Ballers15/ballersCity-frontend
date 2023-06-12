@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GarbageZone2
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: c5f072b6ff5e39a49a1489f528392f0c, type: 3}
+    - {fileID: 2800000, guid: 1f0697c5f087c064ca347c308fa784a4, type: 3}
+    - {fileID: 2800000, guid: bb076b9ba26a1254cb0178b77ade1982, type: 3}
+    - {fileID: 2800000, guid: 5621ba01d3cb81b4ca69636f39bf55e4, type: 3}
+    - {fileID: 2800000, guid: 8f18b8f48337a5d46bc42e979fc2e81c, type: 3}
+    - {fileID: 2800000, guid: f9d52713c94d46244b01b74d0270fc81, type: 3}
+    - {fileID: 2800000, guid: b79063606eefb31469205480be1cba2f, type: 3}
+    totalSpriteSurfaceArea: 823499
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b79063606eefb31469205480be1cba2f, type: 3}
+  - {fileID: 21300000, guid: 5621ba01d3cb81b4ca69636f39bf55e4, type: 3}
+  - {fileID: 21300000, guid: f9d52713c94d46244b01b74d0270fc81, type: 3}
+  - {fileID: 21300000, guid: 8f18b8f48337a5d46bc42e979fc2e81c, type: 3}
+  - {fileID: 21300000, guid: 1f0697c5f087c064ca347c308fa784a4, type: 3}
+  - {fileID: 21300000, guid: c5f072b6ff5e39a49a1489f528392f0c, type: 3}
+  - {fileID: 21300000, guid: bb076b9ba26a1254cb0178b77ade1982, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 07_garbage
+  - 04_garbage
+  - 06_garbage
+  - 05_garbage
+  - 02_garbage
+  - 01_garbage
+  - 03_garbage
+  m_Tag: GarbageZone2
+  m_IsVariant: 0

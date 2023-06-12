@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32f8893451d8411ea05efaf24972d36e, type: 3}
+  m_Name: GemTreeInfo_Test
+  m_EditorClassIdentifier: 
+  treeLevels:
+  - upgradePrice:
+      value: 1
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 1
+  - upgradePrice:
+      value: 2
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 2
+  - upgradePrice:
+      value: 3
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 3
+  - upgradePrice:
+      value: 4
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 4
+  - upgradePrice:
+      value: 5
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 5
+  - upgradePrice:
+      value: 6
+      order: 0
+    maxProgress: 50
+    openBranchesIdSet:
+    - 6
+  - upgradePrice:
+      value: 7
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 7
+  - upgradePrice:
+      value: 8
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 8
+  - upgradePrice:
+      value: 9
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 9
+  - upgradePrice:
+      value: 10
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 10
+  - upgradePrice:
+      value: 11
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 11
+  - upgradePrice:
+      value: 12
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 12
+  - upgradePrice:
+      value: 13
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 13
+  - upgradePrice:
+      value: 14
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 14
+  - upgradePrice:
+      value: 15
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 15
+  - upgradePrice:
+      value: 16
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 16
+  - upgradePrice:
+      value: 17
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 17
+  - upgradePrice:
+      value: 18
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 18
+  - upgradePrice:
+      value: 19
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 19
+  - upgradePrice:
+      value: 20
+      order: 0
+    maxProgress: 5
+    openBranchesIdSet:
+    - 20

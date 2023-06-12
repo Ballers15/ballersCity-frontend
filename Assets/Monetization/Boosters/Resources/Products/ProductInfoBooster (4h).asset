@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c05fc60c1611274f99037128bfddd6d, type: 3}
+  m_Name: ProductInfoBooster (4h)
+  m_EditorClassIdentifier: 
+  id: time_booster_2
+  titleCode: ID_BOOSTER_DESC_2
+  descriptionCode: ID_BOOSTER_DESC_2
+  spriteIcon: {fileID: 21300000, guid: acb1c1f0881ad5e4285871895bb17901, type: 3}
+  m_paymentType: 4
+  m_price: 280
+  m_isConsumable: 1
+  m_timeHours: 4

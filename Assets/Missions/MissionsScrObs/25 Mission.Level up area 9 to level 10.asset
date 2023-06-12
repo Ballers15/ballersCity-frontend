@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b65b43158324e9f408fc77761885630c, type: 3}
+  m_Name: 25 Mission.Level up area 9 to level 10
+  m_EditorClassIdentifier: 
+  m_titleCode: ID_MISSION_5_TITLE
+  m_descCode: ID_MISSION_LEVEL_BUILD
+  reward: {fileID: 11400000, guid: 8e9fa5326dad63843a401353334971a1, type: 2}
+  rewardAttributes:
+    m_count: 0
+    m_bigCount:
+      editorNumberType: 8
+      editorValue: 3
+    m_idleObjectNumber: 0
+  numberOfProduction: 9
+  levelNumber: 10

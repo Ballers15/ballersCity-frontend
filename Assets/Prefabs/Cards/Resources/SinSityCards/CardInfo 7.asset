@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 7
+  m_EditorClassIdentifier: 
+  _id: card_idle_3_char_1
+  _name: "Kesha \u201CNail\u201D"
+  _description: "Kesha was still in high school when he broke the jaw of a district
+    police officer. After that incident, there was only one path left for him, taking
+    into account the fact that local thugs valued his heroic deed high. Kesha is
+    not allowed to take part in any serious business so far, but he\u2019s not in
+    a hurry. Although he now has a nice habit of gazing at the jaw of an FSB officer
+    living nearby through the window of his black BMW\u2026"
+  _sortingOrder: 7
+  _activeSprite: {fileID: 21300000, guid: 18be4b877d48cf648a17a62a44aa367b, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: cf2aaa5d376b7bf43ade94695f8fb17d, type: 3}

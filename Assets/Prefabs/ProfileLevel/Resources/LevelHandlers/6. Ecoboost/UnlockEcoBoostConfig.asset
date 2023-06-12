@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ea32e312f924159acff91f93da6d594, type: 3}
+  m_Name: UnlockEcoBoostConfig
+  m_EditorClassIdentifier: 
+  activitySpriteIcon: {fileID: 21300000, guid: acaffd03f65704b0b9d713c22671d8ba, type: 3}
+  activityTitleCode: ID_UNLOCK_ECOBOOST
+  rewardInfoSet:
+  - {fileID: 11400000, guid: e363e4bace4ab1f419ae247c629d481f, type: 2}
+  - {fileID: 11400000, guid: 35d696bcb858c0949bc760af50630a6e, type: 2}

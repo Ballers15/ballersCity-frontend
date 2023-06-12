@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 25
+  m_EditorClassIdentifier: 
+  _id: card_idle_9_char_1
+  _name: Collector
+  _description: "His real name is unknown. All people know about the Collector is
+    that he is the biggest slave trader who provides girls to all pimps in the district.
+    His \u201Cproducts\u201D are treated with a whole range of neuroleptics and won\u2019t
+    be able to tell anything about their past to the police. Recently, the Secret
+    Service have discovered a channel trafficking in donor organs and limbs, leading
+    to the Collector himself. God only knows what he is doing, but no one is eager
+    to think about it yet again\u2026"
+  _sortingOrder: 25
+  _activeSprite: {fileID: 21300000, guid: c331e3a968e91b54ebc78be49f7442fd, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: cd372b26fe974254aa09ac81614f6b5c, type: 3}

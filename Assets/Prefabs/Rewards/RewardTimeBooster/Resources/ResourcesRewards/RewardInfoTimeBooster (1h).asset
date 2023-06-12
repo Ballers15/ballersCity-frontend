@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 561ffded59302444896bbaaaad0d10d0, type: 3}
+  m_Name: RewardInfoTimeBooster (1h)
+  m_EditorClassIdentifier: 
+  m_id: reward_tbooster_1h
+  m_title: '-'
+  m_description: '-'
+  m_spriteIcon: {fileID: 21300000, guid: cf9b0110dfbae7442a844d672d7c138c, type: 3}
+  m_spriteIconOutlineBold: {fileID: 21300000, guid: 6a26e9ca482feb44383f36935da19a69,
+    type: 3}
+  m_timeBoosterInfo: {fileID: 11400000, guid: 2da40c6407a5e714f885f5a33df89c31, type: 2}
+  count: 1

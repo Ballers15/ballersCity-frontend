@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33c12dd05993495992b598f209a22040, type: 3}
+  m_Name: DailyRewardsPipeline
+  m_EditorClassIdentifier: 
+  dailyRewards:
+  - {fileID: 11400000, guid: ace33bd17819cd14e81de12362442423, type: 2}
+  - {fileID: 11400000, guid: 6967141301122df44a9afdf669bffa55, type: 2}
+  - {fileID: 11400000, guid: 6d58eda0111860842879d91482efa563, type: 2}
+  - {fileID: 11400000, guid: c4bac05c12034d346a3d34e590fe3ce1, type: 2}
+  - {fileID: 11400000, guid: 2a513f26f84ca364f9e16da3346fec1d, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 21
+  m_EditorClassIdentifier: 
+  _id: card_idle_7_char_3
+  _name: Fairy Queen
+  _description: "An average citizen often associates banking activity solely with
+    currencies and securities. Deposit boxes spring to mind only in case one urgently
+    needs a safe place to keep a newly bought necklace. This is the moment when Roselle
+    Oberon \u2013 like a deus ex machina \u2013 comes in to calm down any paranoia.
+    Her businesslike fairies dressed in formal suits will hide away any valuables
+    so well that even Tiger won\u2019t get to them."
+  _sortingOrder: 21
+  _activeSprite: {fileID: 21300000, guid: e3ebcd28736724445be0901f8321d9f4, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 1bcce31c0fee746409bf21d42a2ac772, type: 3}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb81896cf079114987de8e8d0031175, type: 3}
+  m_Name: QuestsPipeline
+  m_EditorClassIdentifier: 
+  quests:
+  - {fileID: 11400000, guid: 090b9dffc21fc8c4089af1034ba733a8, type: 2}
+  - {fileID: 11400000, guid: 8d462d47e1c6e244892cc7bd1d91d891, type: 2}
+  - {fileID: 11400000, guid: 4e8ee75408b1fc742b2c7b2b88f747fe, type: 2}
+  - {fileID: 11400000, guid: a0ae2addb2d4c6f448a804de8634a4c1, type: 2}

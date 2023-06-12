@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71f0cd9760f248a7bd5be7128c6fc8de, type: 3}
+  m_Name: InternalCoffeeBoostVersionUpdater
+  m_EditorClassIdentifier: 
+  scriptableVersion: {fileID: 11400000, guid: 08ef67aa0ebda184e9b11b1bd9f7eee0, type: 2}

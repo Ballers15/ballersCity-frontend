@@ -1,0 +1,1337 @@
+fileFormatVersion: 2
+guid: 959537032ecfc6841a3800bdc4ce5141
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3509095139879819458
+    second: atlas_Steam4x11_256-01_0
+  - first:
+      213: -1657968033270623306
+    second: atlas_Steam4x11_256-01_1
+  - first:
+      213: -7593741275250238512
+    second: atlas_Steam4x11_256-01_2
+  - first:
+      213: 6509821557446939199
+    second: atlas_Steam4x11_256-01_3
+  - first:
+      213: 8984024161563898916
+    second: atlas_Steam4x11_256-01_4
+  - first:
+      213: 5694021696201231267
+    second: atlas_Steam4x11_256-01_5
+  - first:
+      213: -1116701352152908955
+    second: atlas_Steam4x11_256-01_6
+  - first:
+      213: -3426699792904119563
+    second: atlas_Steam4x11_256-01_7
+  - first:
+      213: 2004569192961535826
+    second: atlas_Steam4x11_256-01_8
+  - first:
+      213: 2550598487929658546
+    second: atlas_Steam4x11_256-01_9
+  - first:
+      213: -7337526702035757384
+    second: atlas_Steam4x11_256-01_10
+  - first:
+      213: -1728079231693203749
+    second: atlas_Steam4x11_256-01_11
+  - first:
+      213: 2050847050114382281
+    second: atlas_Steam4x11_256-01_12
+  - first:
+      213: 7090957580512850777
+    second: atlas_Steam4x11_256-01_13
+  - first:
+      213: 6983514290155555928
+    second: atlas_Steam4x11_256-01_14
+  - first:
+      213: -5494196352663424811
+    second: atlas_Steam4x11_256-01_15
+  - first:
+      213: -8135349441654555098
+    second: atlas_Steam4x11_256-01_16
+  - first:
+      213: -3424718288172643679
+    second: atlas_Steam4x11_256-01_17
+  - first:
+      213: -3540042277828579127
+    second: atlas_Steam4x11_256-01_18
+  - first:
+      213: 9032734959711851004
+    second: atlas_Steam4x11_256-01_19
+  - first:
+      213: 4080144358419071031
+    second: atlas_Steam4x11_256-01_20
+  - first:
+      213: 2149600083975410102
+    second: atlas_Steam4x11_256-01_21
+  - first:
+      213: -8501373231302564031
+    second: atlas_Steam4x11_256-01_22
+  - first:
+      213: -3989994627578309785
+    second: atlas_Steam4x11_256-01_23
+  - first:
+      213: -6343304498223002239
+    second: atlas_Steam4x11_256-01_24
+  - first:
+      213: -4274904186433427272
+    second: atlas_Steam4x11_256-01_25
+  - first:
+      213: 4540541537275180942
+    second: atlas_Steam4x11_256-01_26
+  - first:
+      213: -4568285266881031675
+    second: atlas_Steam4x11_256-01_27
+  - first:
+      213: -8286709380421941341
+    second: atlas_Steam4x11_256-01_28
+  - first:
+      213: -7204113400069399167
+    second: atlas_Steam4x11_256-01_29
+  - first:
+      213: 6814805192310802382
+    second: atlas_Steam4x11_256-01_30
+  - first:
+      213: -1361864009489067306
+    second: atlas_Steam4x11_256-01_31
+  - first:
+      213: -4404722964925176522
+    second: atlas_Steam4x11_256-01_32
+  - first:
+      213: -788228323886700685
+    second: atlas_Steam4x11_256-01_33
+  - first:
+      213: -8076809581101677355
+    second: atlas_Steam4x11_256-01_34
+  - first:
+      213: -9185038645160493793
+    second: atlas_Steam4x11_256-01_35
+  - first:
+      213: 5796170961386867514
+    second: atlas_Steam4x11_256-01_36
+  - first:
+      213: 5373868421788462193
+    second: atlas_Steam4x11_256-01_37
+  - first:
+      213: 2826305647545903779
+    second: atlas_Steam4x11_256-01_38
+  - first:
+      213: 687398689446545056
+    second: atlas_Steam4x11_256-01_39
+  - first:
+      213: -6405400245553920610
+    second: atlas_Steam4x11_256-01_40
+  - first:
+      213: 2103195544077908290
+    second: atlas_Steam4x11_256-01_41
+  - first:
+      213: -1155296898601331532
+    second: atlas_Steam4x11_256-01_42
+  - first:
+      213: 5455180945433255374
+    second: atlas_Steam4x11_256-01_43
+  - first:
+      213: -4668368538064005801
+    second: atlas_Steam4x11_256-01_44
+  - first:
+      213: 1339607448760284566
+    second: atlas_Steam4x11_256-01_45
+  - first:
+      213: 5757412529889511854
+    second: atlas_Steam4x11_256-01_46
+  - first:
+      213: -635785973283246732
+    second: atlas_Steam4x11_256-01_47
+  - first:
+      213: -6980671883748818104
+    second: atlas_Steam4x11_256-01_48
+  - first:
+      213: 7200562622478398551
+    second: atlas_Steam4x11_256-01_49
+  - first:
+      213: 8045302584729936542
+    second: atlas_Steam4x11_256-01_50
+  - first:
+      213: -3793239906161605538
+    second: atlas_Steam4x11_256-01_51
+  - first:
+      213: -1305799864607062873
+    second: atlas_Steam4x11_256-01_52
+  - first:
+      213: -6742672529720336433
+    second: atlas_Steam4x11_256-01_53
+  - first:
+      213: 4727297528677419093
+    second: atlas_Steam4x11_256-01_54
+  - first:
+      213: 6967262101138099968
+    second: atlas_Steam4x11_256-01_0
+  - first:
+      213: 1248279738891161140
+    second: atlas_Steam4x11_256-01_1
+  - first:
+      213: -2696073501660893380
+    second: atlas_Steam4x11_256-01_2
+  - first:
+      213: 7885983405876011024
+    second: atlas_Steam4x11_256-01_3
+  - first:
+      213: -2947243924457669974
+    second: atlas_Steam4x11_256-01_4
+  - first:
+      213: -806630795637016324
+    second: atlas_Steam4x11_256-01_5
+  - first:
+      213: -7366636953727565070
+    second: atlas_Steam4x11_256-01_6
+  - first:
+      213: 3727091041349874397
+    second: atlas_Steam4x11_256-01_7
+  - first:
+      213: 3294885958968602619
+    second: atlas_Steam4x11_256-01_8
+  - first:
+      213: -6973402710579877265
+    second: atlas_Steam4x11_256-01_9
+  - first:
+      213: 5728006417307541489
+    second: atlas_Steam4x11_256-01_10
+  - first:
+      213: -552382720719813057
+    second: atlas_Steam4x11_256-01_11
+  - first:
+      213: -1014880545296799570
+    second: atlas_Steam4x11_256-01_12
+  - first:
+      213: -5814667927777638721
+    second: atlas_Steam4x11_256-01_13
+  - first:
+      213: 7699075573687235287
+    second: atlas_Steam4x11_256-01_14
+  - first:
+      213: 6630848134890540832
+    second: atlas_Steam4x11_256-01_15
+  - first:
+      213: -1428187443633076350
+    second: atlas_Steam4x11_256-01_16
+  - first:
+      213: 5495985817852090347
+    second: atlas_Steam4x11_256-01_17
+  - first:
+      213: 8545502434816009262
+    second: atlas_Steam4x11_256-01_18
+  - first:
+      213: -5191862980762705640
+    second: atlas_Steam4x11_256-01_19
+  - first:
+      213: 5928245595723097351
+    second: atlas_Steam4x11_256-01_20
+  - first:
+      213: -8350511501225133913
+    second: atlas_Steam4x11_256-01_21
+  - first:
+      213: 4632121917829706973
+    second: atlas_Steam4x11_256-01_22
+  - first:
+      213: 2728166366954884720
+    second: atlas_Steam4x11_256-01_23
+  - first:
+      213: -8141132143159698697
+    second: atlas_Steam4x11_256-01_24
+  - first:
+      213: -8381733572799587424
+    second: atlas_Steam4x11_256-01_25
+  - first:
+      213: 7505272981847443731
+    second: atlas_Steam4x11_256-01_26
+  - first:
+      213: 5077518936767350332
+    second: atlas_Steam4x11_256-01_27
+  - first:
+      213: -1225036710960360736
+    second: atlas_Steam4x11_256-01_28
+  - first:
+      213: 7810223419882572925
+    second: atlas_Steam4x11_256-01_29
+  - first:
+      213: 968407184975143859
+    second: atlas_Steam4x11_256-01_30
+  - first:
+      213: 2304697932746590394
+    second: atlas_Steam4x11_256-01_31
+  - first:
+      213: 5858230755442189816
+    second: atlas_Steam4x11_256-01_32
+  - first:
+      213: -6514803260642950840
+    second: atlas_Steam4x11_256-01_33
+  - first:
+      213: -3225432116933373489
+    second: atlas_Steam4x11_256-01_34
+  - first:
+      213: 8617814190960623641
+    second: atlas_Steam4x11_256-01_35
+  - first:
+      213: 6703566292562928278
+    second: atlas_Steam4x11_256-01_36
+  - first:
+      213: 1654307496032188208
+    second: atlas_Steam4x11_256-01_37
+  - first:
+      213: -5700372229082891180
+    second: atlas_Steam4x11_256-01_38
+  - first:
+      213: 1556607770035925107
+    second: atlas_Steam4x11_256-01_39
+  - first:
+      213: 9130154859184055975
+    second: atlas_Steam4x11_256-01_40
+  - first:
+      213: -8486138961092149511
+    second: atlas_Steam4x11_256-01_41
+  - first:
+      213: 8906720454131685379
+    second: atlas_Steam4x11_256-01_42
+  - first:
+      213: -3787929906780322449
+    second: atlas_Steam4x11_256-01_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc06387ffa0b060800000000000000
+      internalID: 6967262101138099968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ecce01fc7c25110800000000000000
+      internalID: 1248279738891161140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fa8254f6f959ad0800000000000000
+      internalID: -2696073501660893380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0106ddb3024a07d60800000000000000
+      internalID: 7885983405876011024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab54014494917d0800000000000000
+      internalID: -2947243924457669974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf83a29a0954ec4f0800000000000000
+      internalID: -806630795637016324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f28dcf78b274c990800000000000000
+      internalID: -7366636953727565070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2333d1e8949b330800000000000000
+      internalID: 3727091041349874397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffeeb79259c9bd20800000000000000
+      internalID: 3294885958968602619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ae3207e2f793f90800000000000000
+      internalID: -6973402710579877265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff16cefc77fd7f40800000000000000
+      internalID: 5728006417307541489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368e6797da8558f0800000000000000
+      internalID: -552382720719813057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea82128658b6ae1f0800000000000000
+      internalID: -1014880545296799570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb605fdb3562e4fa0800000000000000
+      internalID: -5814667927777638721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_14
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2b38c517c98da60800000000000000
+      internalID: 7699075573687235287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_15
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f46b73f31850c50800000000000000
+      internalID: 6630848134890540832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_16
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287c39d361f0e2ce0800000000000000
+      internalID: -1428187443633076350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_17
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be798ab7bf9a54c40800000000000000
+      internalID: 5495985817852090347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_18
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24a17e3039b79670800000000000000
+      internalID: 8545502434816009262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811632d602cc2f7b0800000000000000
+      internalID: -5191862980762705640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_20
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705695ac5fb554250800000000000000
+      internalID: 5928245595723097351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a879a458060d1c80800000000000000
+      internalID: -8350511501225133913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd47a8c975a984040800000000000000
+      internalID: 4632121917829706973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e83863bd46cd520800000000000000
+      internalID: 2728166366954884720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa93790373e40f80800000000000000
+      internalID: -8141132143159698697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_25
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab905f49b91eab80800000000000000
+      internalID: -8381733572799587424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198a592306182860800000000000000
+      internalID: 7505272981847443731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_27
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3646563298f67640800000000000000
+      internalID: 5077518936767350332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_28
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e215661a9bcffee0800000000000000
+      internalID: -1225036710960360736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c898ee1dc736c60800000000000000
+      internalID: 7810223419882572925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_30
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b321623439707d00800000000000000
+      internalID: 968407184975143859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_31
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab800fb1f8eebff10800000000000000
+      internalID: 2304697932746590394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_32
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5666675dd9c4150800000000000000
+      internalID: 5858230755442189816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84102db83f4c695a0800000000000000
+      internalID: -6514803260642950840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1dc072496fc33d0800000000000000
+      internalID: -3225432116933373489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9104788f850a89770800000000000000
+      internalID: 8617814190960623641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692ee7ca60ad70d50800000000000000
+      internalID: 6703566292562928278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_37
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037b34a17e745f610800000000000000
+      internalID: 1654307496032188208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c3306d8a534e0b0800000000000000
+      internalID: -5700372229082891180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_39
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ba93058e2a9510800000000000000
+      internalID: 1556607770035925107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_40
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e8f58873d4be70800000000000000
+      internalID: 9130154859184055975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_41
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feff7d839d2b3a80800000000000000
+      internalID: -8486138961092149511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_42
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308993e20170b9b70800000000000000
+      internalID: 8906720454131685379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Steam4x11_256-01_43
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65c740b1d19e6bc0800000000000000
+      internalID: -3787929906780322449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

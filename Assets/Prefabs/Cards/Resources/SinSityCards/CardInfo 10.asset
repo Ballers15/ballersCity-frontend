@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 10
+  m_EditorClassIdentifier: 
+  _id: card_idle_4_char_1
+  _name: Joseph Diamond
+  _description: "There is no lawyer in the world richer and more powerful than Joseph
+    Diamond. He managed to set free absolute villains who seemed to have no chances
+    in the court. Once at a local caf\xE9, Joseph underpaid for a cocktail which
+    raised claims of the bartender. After a short dialogue, the bartender owed Joseph
+    a tidy sum of money. And the caf\xE9 had to be closed."
+  _sortingOrder: 10
+  _activeSprite: {fileID: 21300000, guid: 738ebeda1ace27d4580e368e5ddda0f1, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 0014ce2783560a94cace82feff60c4d4, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 18
+  m_EditorClassIdentifier: 
+  _id: card_idle_6_char_3
+  _name: Glenn Myers
+  _description: "One of the richest people on the planet, he owes his success to
+    Neil.com \u2013 an e-commerce platform he created. Friends consider Glenn an
+    amazing person \u2013 he is keen on aviation, he writes books and stars in movies.
+    But only few know that he also sells crypto-currency, studies the theory of financial
+    pyramids and bribes senators."
+  _sortingOrder: 18
+  _activeSprite: {fileID: 21300000, guid: 8bcd7486f5c08e7489b965c246ff7d13, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: f1b401f8d8dabd04ba4f425a416a1fd1, type: 3}

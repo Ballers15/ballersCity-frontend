@@ -1,0 +1,24 @@
+Fake.png
+size:353,353
+filter:Linear,Linear
+pma:true
+scale:0.5
+ImagesGuns/Coin
+bounds:96,298,53,57
+rotate:90
+ImagesGuns/Fake 1
+bounds:2,121,170,97
+ImagesGuns/Fake 2
+bounds:209,127,167,140
+rotate:90
+ImagesGuns/Shadow
+bounds:155,296,196,55
+ImagesGuns/Star
+bounds:106,220,74,101
+rotate:90
+ImagesGuns/dress
+bounds:2,234,62,102
+rotate:90
+ImagesGuns/phone
+bounds:2,301,50,92
+rotate:90

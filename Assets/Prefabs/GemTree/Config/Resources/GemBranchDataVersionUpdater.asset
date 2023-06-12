@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab221c180efb48b181a7773bafd1c226, type: 3}
+  m_Name: GemBranchDataVersionUpdater
+  m_EditorClassIdentifier: 
+  startGemBranchDataSet:
+    dataSet:
+    - id: 1
+      isOpened: 1
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 2
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 3
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 4
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 5
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 6
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 7
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 8
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 9
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 10
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 11
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 12
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 13
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 14
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 15
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 16
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 17
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 18
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 19
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0
+    - id: 20
+      isOpened: 0
+      isReady: 0
+      remainingTimeSec: 0

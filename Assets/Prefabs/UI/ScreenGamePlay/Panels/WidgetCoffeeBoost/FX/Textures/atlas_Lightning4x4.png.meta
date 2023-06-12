@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 19466bbc5de568c4499e521a8de6e665
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7484462079121580492
+    second: atlas_Lightning4x4_0
+  - first:
+      213: -3964088462904042206
+    second: atlas_Lightning4x4_1
+  - first:
+      213: -8486065196547387652
+    second: atlas_Lightning4x4_2
+  - first:
+      213: 1593549927966110391
+    second: atlas_Lightning4x4_3
+  - first:
+      213: 3545350124528105021
+    second: atlas_Lightning4x4_4
+  - first:
+      213: 1653882899149862420
+    second: atlas_Lightning4x4_5
+  - first:
+      213: -5263509909664453788
+    second: atlas_Lightning4x4_6
+  - first:
+      213: 5043491624705888277
+    second: atlas_Lightning4x4_7
+  - first:
+      213: 8840514138130150891
+    second: atlas_Lightning4x4_8
+  - first:
+      213: 4426077244834052827
+    second: atlas_Lightning4x4_9
+  - first:
+      213: -5141739423858460721
+    second: atlas_Lightning4x4_10
+  - first:
+      213: 3994022260499661505
+    second: atlas_Lightning4x4_11
+  - first:
+      213: -4205925324796370354
+    second: atlas_Lightning4x4_12
+  - first:
+      213: 8094718648968279287
+    second: atlas_Lightning4x4_13
+  - first:
+      213: -5151422949073051047
+    second: atlas_Lightning4x4_14
+  - first:
+      213: -8366831513506456199
+    second: atlas_Lightning4x4_15
+  - first:
+      213: -5041467782408493220
+    second: atlas_Lightning4x4_0
+  - first:
+      213: 6366813543420897245
+    second: atlas_Lightning4x4_4
+  - first:
+      213: -2611451252500823019
+    second: atlas_Lightning4x4_8
+  - first:
+      213: 4485537049409159610
+    second: atlas_Lightning4x4_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1080.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d516eab8abcf8c0800000000000000
+      internalID: -3964088462904042206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1080.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeccf23aa07b3a80800000000000000
+      internalID: -8486065196547387652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_3
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1080.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2f44c673d6d1610800000000000000
+      internalID: 1593549927966110391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 720.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416bbefebb5c3f610800000000000000
+      internalID: 1653882899149862420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 720.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ba3badf9144f6b0800000000000000
+      internalID: -5263509909664453788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 720.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510904e39e41ef540800000000000000
+      internalID: 5043491624705888277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 360.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdaf5c6cdc59c6d30800000000000000
+      internalID: 4426077244834052827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 360.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc77b417c3fd4a8b0800000000000000
+      internalID: -5141739423858460721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 360.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2c51ea51e9d6730800000000000000
+      internalID: 3994022260499661505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4fb7c39b7365070800000000000000
+      internalID: 8094718648968279287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952a4b80f187288b0800000000000000
+      internalID: -5151422949073051047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_15
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 0.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d57ed511b03eb80800000000000000
+      internalID: -8366831513506456199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5727f243cb190ab0800000000000000
+      internalID: -5041467782408493220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7afb65f277b5850800000000000000
+      internalID: 6366813543420897245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51480720ce242cbd0800000000000000
+      internalID: -2611451252500823019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atlas_Lightning4x4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 90
+        height: 360.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab103e85e24df3e30800000000000000
+      internalID: 4485537049409159610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

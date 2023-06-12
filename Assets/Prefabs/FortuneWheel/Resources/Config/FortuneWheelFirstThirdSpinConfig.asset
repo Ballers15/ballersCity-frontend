@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a496dbd6537a4ee48a976b74d055199c, type: 3}
+  m_Name: FortuneWheelFirstThirdSpinConfig
+  m_EditorClassIdentifier: 
+  m_unlockSpinDays: 24
+  m_freeSpinPeriod: 28800
+  m_ADSpinCount: 3
+  m_gemPriceSpinDefault: 5
+  m_gemPriceStep: 5
+  m_sectorsCount: 8
+  m_separatorAngle: -22.5
+  sectorsDataList:
+  - angle: 0
+    chance: 5
+    rewardInfoArray:
+    - {fileID: 11400000, guid: d1d2dd3e4dd42a945b0b2816380ebe05, type: 2}
+  - angle: 45
+    chance: 15
+    rewardInfoArray:
+    - {fileID: 11400000, guid: b403d7e0fe4808d4c8007e7639886ff1, type: 2}
+  - angle: 90
+    chance: 20
+    rewardInfoArray:
+    - {fileID: 11400000, guid: f66393c36e8ab7f48b576a1d84a0f9e7, type: 2}
+  - angle: 135
+    chance: 10
+    rewardInfoArray:
+    - {fileID: 11400000, guid: 853ae5b53900faf46b646043c3cdfbf4, type: 2}
+  - angle: 180
+    chance: 15
+    rewardInfoArray:
+    - {fileID: 11400000, guid: 276d71df7aefd28478841e62de53d5fd, type: 2}
+  - angle: 225
+    chance: 10
+    rewardInfoArray:
+    - {fileID: 11400000, guid: 0ef619f78bf732a45a1f1f049c812f41, type: 2}
+  - angle: 270
+    chance: 15
+    rewardInfoArray:
+    - {fileID: 11400000, guid: c0a9e93ca55a1f947a4d31edbc5bae85, type: 2}
+  - angle: 315
+    chance: 10
+    rewardInfoArray:
+    - {fileID: 11400000, guid: 1600839f5295425478466469fc9aec6f, type: 2}

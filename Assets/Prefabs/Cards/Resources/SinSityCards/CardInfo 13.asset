@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 13
+  m_EditorClassIdentifier: 
+  _id: card_idle_5_char_1
+  _name: Jeffrey Perez
+  _description: "A freemason, hoaxer and owner of the biggest TV channel which he
+    uses to pour his tales about the secrets of history and politics into people\u2019s
+    ears, Jeffrey is the king of world conspiracy and secret orders. While still
+    a child, he realized that people love to be deceived, and since then he\u2019s
+    been making his living by deceit. Do you want to know who killed Kennedy? Jeffrey
+    is eager to tell you."
+  _sortingOrder: 13
+  _activeSprite: {fileID: 21300000, guid: 903d96dcce430d944ae72641cf0a3348, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 2ccf204436e996f4c9a9ffb63eece0c9, type: 3}

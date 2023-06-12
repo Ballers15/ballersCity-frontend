@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 39
+  m_EditorClassIdentifier: 
+  _id: card_idle_13_char_3
+  _name: Morgana Tiris
+  _description: "If you need a vintage dress or gothic shoes \u2013 feel free to
+    contact Morgana. She\u2019s a gifted fashion designer, and her biggest weakness
+    is leather goods. Morgana is very cautious in her business, but once a very pushy
+    detective got too curious. However, he went missing soon after that, and a week
+    later Morgana was seen in a new leather coat\u2026"
+  _sortingOrder: 39
+  _activeSprite: {fileID: 21300000, guid: 28a96f65802807d4585aadba7e427d55, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: f0ddf09b3f4da4040af3abf10cc099e4, type: 3}

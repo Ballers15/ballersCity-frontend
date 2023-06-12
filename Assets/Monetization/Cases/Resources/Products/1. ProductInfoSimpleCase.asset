@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf556e53109546d8929af837463cff2c, type: 3}
+  m_Name: 1. ProductInfoSimpleCase
+  m_EditorClassIdentifier: 
+  id: simple_case
+  titleCode: ID_CASE_SIMPLE
+  descriptionCode: '-'
+  spriteIcon: {fileID: 21300000, guid: 7c7ddb7967ce6db4197909e49c221b16, type: 3}
+  m_paymentType: 4
+  m_price: 0
+  m_isConsumable: 1
+  m_rewardInfoPersonageCard: {fileID: 11400000, guid: 59dc3ed73075b474d8d1cb223dd7c7e4, type: 2}
+  chanceGroupWithCountPersonageCard:
+    values:
+    - chance: 100
+      countMin: 2
+      countMax: 4
+  m_rewardInfoSoftCurrency: {fileID: 11400000, guid: 03c5819132d0ac24e9c6aa0f5e9e96eb, type: 2}
+  chanceGroupWithCountSoftCurrency:
+    values:
+    - chance: 70
+      countMin: 30
+      countMax: 60
+    - chance: 30
+      countMin: 60
+      countMax: 90
+  m_rewardInfoHardCurrency: {fileID: 11400000, guid: 4339ef49bf2dfaa40b3f2e72edb53058, type: 2}
+  chanceGroupWithCountHardCurrency:
+    values:
+    - chance: 100
+      countMin: 3
+      countMax: 5

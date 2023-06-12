@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 3
+  m_EditorClassIdentifier: 
+  _id: card_idle_1_char_3
+  _name: Giovanni Luciano
+  _description: "Capo Giovanni Luciano is an ordinary street fighter, but this is
+    the kind of people the Family\u2019s wellbeing depends on. Smoking guns, a permanent
+    smell of gunpowder, a jacket soaked in blood and rain\u2026 it\u2019s all about
+    this guy! Luciano is always at the forefront and always ready to fight, only
+    a fool or a psycho will dare to cross his path."
+  _sortingOrder: 3
+  _activeSprite: {fileID: 21300000, guid: b5e6f28402e93a44ea0b36dcc88576c2, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: f614f8af56408a74abe824c5bdbef5de, type: 3}

@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Atlas3DPrinter
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1d75768674bd07f41be9fbd62805c36c, type: 3}
+    - {fileID: 2800000, guid: 6278e66fe9d3b6c4db04097fb1aa4d37, type: 3}
+    - {fileID: 2800000, guid: 740af02fc3b78cb469c35fb76dd89cfc, type: 3}
+    - {fileID: 2800000, guid: 7bfa57453c77e14419beb0ad4cf27e4c, type: 3}
+    - {fileID: 2800000, guid: af370092691c84f4a9da2964f77caf0f, type: 3}
+    - {fileID: 2800000, guid: fa9faf8b161bd29478cae0dfbc83af84, type: 3}
+    - {fileID: 2800000, guid: 8dfe437450a7dde4ea87c2cf9e697f05, type: 3}
+    - {fileID: 2800000, guid: 9b4d651bd33587041be1cb2db08fff3a, type: 3}
+    - {fileID: 2800000, guid: 8bbacdf60aaf45a4db2602e2eda7b7f4, type: 3}
+    - {fileID: 2800000, guid: 6954780c2254ef34f95a14839d5f51d6, type: 3}
+    - {fileID: 2800000, guid: bf17d333058a7894da60e914a053f987, type: 3}
+    - {fileID: 2800000, guid: 30d1909ec242ab442952d08497ed17f7, type: 3}
+    - {fileID: 2800000, guid: 482e20c08dd0a6c4bbc97e3c31613a08, type: 3}
+    - {fileID: 2800000, guid: 2ef723c6ab45fe746935f98c782ed985, type: 3}
+    - {fileID: 2800000, guid: 2b4e259230866404588c8737509b2720, type: 3}
+    - {fileID: 2800000, guid: db0974ac6020f724d96b21cdb71aba1e, type: 3}
+    - {fileID: 2800000, guid: dbd434b5e3bc8814ab726314f0db80e5, type: 3}
+    - {fileID: 2800000, guid: e90ed89b2e31e6f43b634b25728d0fef, type: 3}
+    - {fileID: 2800000, guid: 6511c5e45ff55a14daf17119a20e9ee6, type: 3}
+    - {fileID: 2800000, guid: 404653db5f8e5b14ea78f1cc434dad12, type: 3}
+    - {fileID: 2800000, guid: ea7409e5c3b728040a9538dd8cdab7d9, type: 3}
+    - {fileID: 2800000, guid: edce352eed05d504bb2674b8b1a2c7ed, type: 3}
+    - {fileID: 2800000, guid: 12a2db3c1bbb9fe4fba86095fa91a7fe, type: 3}
+    - {fileID: 2800000, guid: d1ca4baa4623add47b9dd02dff8ea4f8, type: 3}
+    - {fileID: 2800000, guid: a73789ddf32a9af46964389195de0feb, type: 3}
+    - {fileID: 2800000, guid: 921898d4c90520b44bc31691e3796716, type: 3}
+    - {fileID: 2800000, guid: 11480e54dd31dc542a20dbe07d9e1ce4, type: 3}
+    totalSpriteSurfaceArea: 494316
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 482e20c08dd0a6c4bbc97e3c31613a08, type: 3}
+  - {fileID: 21300000, guid: af370092691c84f4a9da2964f77caf0f, type: 3}
+  - {fileID: 21300000, guid: 2b4e259230866404588c8737509b2720, type: 3}
+  - {fileID: 21300000, guid: bf17d333058a7894da60e914a053f987, type: 3}
+  - {fileID: 21300000, guid: 11480e54dd31dc542a20dbe07d9e1ce4, type: 3}
+  - {fileID: 21300000, guid: 8dfe437450a7dde4ea87c2cf9e697f05, type: 3}
+  - {fileID: 21300000, guid: 921898d4c90520b44bc31691e3796716, type: 3}
+  - {fileID: 21300000, guid: 6511c5e45ff55a14daf17119a20e9ee6, type: 3}
+  - {fileID: 21300000, guid: 7bfa57453c77e14419beb0ad4cf27e4c, type: 3}
+  - {fileID: 21300000, guid: dbd434b5e3bc8814ab726314f0db80e5, type: 3}
+  - {fileID: 21300000, guid: ea7409e5c3b728040a9538dd8cdab7d9, type: 3}
+  - {fileID: 21300000, guid: 1d75768674bd07f41be9fbd62805c36c, type: 3}
+  - {fileID: 21300000, guid: 2ef723c6ab45fe746935f98c782ed985, type: 3}
+  - {fileID: 21300000, guid: 8bbacdf60aaf45a4db2602e2eda7b7f4, type: 3}
+  - {fileID: 21300000, guid: d1ca4baa4623add47b9dd02dff8ea4f8, type: 3}
+  - {fileID: 21300000, guid: 9b4d651bd33587041be1cb2db08fff3a, type: 3}
+  - {fileID: 21300000, guid: fa9faf8b161bd29478cae0dfbc83af84, type: 3}
+  - {fileID: 21300000, guid: e90ed89b2e31e6f43b634b25728d0fef, type: 3}
+  - {fileID: 21300000, guid: 404653db5f8e5b14ea78f1cc434dad12, type: 3}
+  - {fileID: 21300000, guid: 6954780c2254ef34f95a14839d5f51d6, type: 3}
+  - {fileID: 21300000, guid: 12a2db3c1bbb9fe4fba86095fa91a7fe, type: 3}
+  - {fileID: 21300000, guid: db0974ac6020f724d96b21cdb71aba1e, type: 3}
+  - {fileID: 21300000, guid: a73789ddf32a9af46964389195de0feb, type: 3}
+  - {fileID: 21300000, guid: edce352eed05d504bb2674b8b1a2c7ed, type: 3}
+  - {fileID: 21300000, guid: 30d1909ec242ab442952d08497ed17f7, type: 3}
+  - {fileID: 21300000, guid: 740af02fc3b78cb469c35fb76dd89cfc, type: 3}
+  - {fileID: 21300000, guid: 6278e66fe9d3b6c4db04097fb1aa4d37, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - hanger y
+  - Canister R
+  - horse
+  - hanger B
+  - toilet seat
+  - chair
+  - table
+  - Printer L side 1 (front)
+  - Canister B
+  - plastic cup
+  - Printer R side
+  - 3d-printer_template
+  - horizontal stick
+  - commode
+  - spray 1
+  - chairpic
+  - Canister Y
+  - print head
+  - Printer L side 2 (back)
+  - commode pic
+  - Rect_mask_T
+  - horse pic
+  - spray 2
+  - Rect_mask
+  - hanger R
+  - caister W
+  - Bucket
+  m_Tag: Atlas3DPrinter
+  m_IsVariant: 0

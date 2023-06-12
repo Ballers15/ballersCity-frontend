@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 4
+  m_EditorClassIdentifier: 
+  _id: card_idle_2_char_1
+  _name: Kaikei Okuma
+  _description: "Okuma is a real wizard. Whenever the gang needs money, he pulls
+    out his phone \u2013 and the money appears right out of thin air! Yes, a kaikei
+    keeps the gang\u2019s money, but you shouldn\u2019t think that Okuma\u2019s life
+    is full of routine. When needed, he fights like a skilled fighter."
+  _sortingOrder: 4
+  _activeSprite: {fileID: 21300000, guid: 0793f3df1ba1023448a9474231febf7c, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 4548bd3d5153c91448782ba4eb1525ef, type: 3}

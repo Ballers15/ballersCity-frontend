@@ -1,0 +1,39 @@
+Iinsane Max.png
+size:845,845
+filter:Linear,Linear
+pma:true
+Arm L
+bounds:564,121,142,257
+Arm R
+bounds:312,173,205,250
+rotate:90
+Body
+bounds:2,138,308,317
+Brow L
+bounds:590,84,75,35
+Brow R
+bounds:312,387,68,26
+rotate:90
+Hand L
+bounds:708,128,91,106
+Hand L2
+bounds:687,399,144,162
+Hand R
+bounds:510,13,78,106
+Head
+bounds:344,533,276,310
+Legs
+bounds:2,457,340,386
+Mouth
+bounds:312,147,54,24
+Shadow
+bounds:2,8,506,128
+ShoulderGuard
+bounds:708,236,161,116
+rotate:90
+Vorot
+bounds:622,563,280,221
+rotate:90
+Weapon
+bounds:344,380,151,341
+rotate:90

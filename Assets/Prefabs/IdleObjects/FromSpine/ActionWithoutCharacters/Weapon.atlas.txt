@@ -1,0 +1,13 @@
+Weapon.png
+size:276,276
+filter:Linear,Linear
+pma:true
+scale:0.5
+Granata
+bounds:197,166,70,108
+Gun
+bounds:2,110,193,164
+Shadow
+bounds:2,53,196,55
+Star
+bounds:200,63,74,101

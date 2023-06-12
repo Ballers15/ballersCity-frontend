@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 15
+  m_EditorClassIdentifier: 
+  _id: card_idle_5_char_3
+  _name: Jerome Musk
+  _description: "He is the second most influential businessman in the City and the
+    owner of the largest aerospace company. Malicious tongues call him a \u201Cspace
+    cabbie\u201D, but only few know that Jerome is also a \u201Cspace warlord\u201D
+    and launches military satellites."
+  _sortingOrder: 15
+  _activeSprite: {fileID: 21300000, guid: 402a9d5820b669944bbdd0849b5b5227, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 735af23dddbfb19478b0d17f967c99d2, type: 3}

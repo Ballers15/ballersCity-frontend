@@ -1,0 +1,71 @@
+Vanilla2.png
+size:892,892
+filter:Linear,Linear
+pma:true
+Arm1
+bounds:570,203,104,117
+rotate:90
+Arm1 Copy
+bounds:741,779,111,149
+rotate:90
+Arm2 Copy
+bounds:2,338,126,128
+Arm2 Copy 2
+bounds:714,223,113,168
+rotate:90
+BH
+bounds:2,468,346,313
+Boo
+bounds:510,309,202,177
+EB1
+bounds:350,579,60,16
+rotate:90
+EB2
+bounds:350,517,60,16
+rotate:90
+H1
+bounds:741,606,147,171
+H2
+bounds:451,4,217,117
+rotate:90
+Hat
+bounds:724,338,266,161
+rotate:90
+L2
+bounds:379,687,203,360
+rotate:90
+Layer 1
+bounds:308,377,89,37
+rotate:90
+M
+bounds:248,8,71,42
+rotate:90
+P1
+bounds:451,312,51,30
+P2
+bounds:451,280,51,30
+S
+bounds:378,488,344,197
+Shadow
+bounds:2,783,375,107
+T1
+bounds:350,641,26,46
+T2
+bounds:350,689,27,45
+T2 Copy
+bounds:350,736,27,45
+body1
+bounds:2,15,244,321
+capcake
+bounds:676,47,114,154
+hand1
+bounds:130,343,123,176
+rotate:90
+hand2 Copy
+bounds:570,46,155,104
+rotate:90
+head
+bounds:248,81,201,255
+platok
+bounds:350,344,142,158
+rotate:90

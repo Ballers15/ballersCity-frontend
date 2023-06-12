@@ -1,0 +1,4 @@
+<linker>
+    <assembly fullname="devtodev.background" windowsruntime="true" ignoreIfMissing="1"/>
+    <assembly fullname="devtodev_cross" preserve="all" ignoreIfMissing="1"/>
+</linker>

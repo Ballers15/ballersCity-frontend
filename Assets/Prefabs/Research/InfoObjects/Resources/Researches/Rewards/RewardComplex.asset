@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72573be6936f4d01ba06a66f6826c9ce, type: 3}
+  m_Name: RewardComplex
+  m_EditorClassIdentifier: 
+  m_id: reward_research_complex
+  m_title: COMPLEX_REWARD_TITLE
+  m_description: COMPLEX_REWARD_DESC
+  m_spriteIcon: {fileID: 0}
+  innerRewardInfoSet:
+  - {fileID: 11400000, guid: 2a35cc1bda0da4a0b89a5aa41708acf3, type: 2}
+  - {fileID: 11400000, guid: e10a50bb5952a424593e899c04d44f9b, type: 2}
+  - {fileID: 11400000, guid: 9aded4151d6f44ff789f3f1ddcbffe35, type: 2}

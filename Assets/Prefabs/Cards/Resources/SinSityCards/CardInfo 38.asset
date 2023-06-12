@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 38
+  m_EditorClassIdentifier: 
+  _id: card_idle_13_char_2
+  _name: Luth Rawarta
+  _description: "Once engaged in the trade of stolen goods, Luth couldn\u2019t even
+    imagine that he would become the largest antique and luxury goods dealer one
+    day. He is known for his hysterical nature and sometimes even cries like a little
+    girl, but he does business with the severity of a real businessman. If you ordered
+    some expensive clothes or jewelry of a limited collection, rest assured \u2013
+    he\u2019ll get them for you, even if they belong to someone else now."
+  _sortingOrder: 38
+  _activeSprite: {fileID: 21300000, guid: 74d038f9dd4a65f4aae44b08f719bd09, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: cd102e17ec07c064b84cec8a80d23af2, type: 3}

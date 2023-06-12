@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e02169856ea48f5ac1f83b6643d3184, type: 3}
+  m_Name: ExternalAirDropVersionUpdater
+  m_EditorClassIdentifier: 
+  scriptableVersion: {fileID: 11400000, guid: b35efd60722654439bf05d79417e88c6, type: 2}
+  levelTable: {fileID: 11400000, guid: 42e791cc889f04b7d895707a54655390, type: 2}
+  reachLevel: 3

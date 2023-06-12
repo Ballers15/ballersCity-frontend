@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8151de0aa86e4747bed58ee956b42fac, type: 3}
+  m_Name: AirShipParcelSupplierRegular
+  m_EditorClassIdentifier: 
+  standardParams:
+    adsRewardNumber: 2
+    adsRewardDeviation: 2
+  luckyPipeline:
+    parcelArray:
+    - needWatchAds: 0
+      rewardInfoBuilder: {fileID: 11400000, guid: 6b8445d6f319b426ca05b5d9911c8752,
+        type: 2}
+    - needWatchAds: 0
+      rewardInfoBuilder: {fileID: 11400000, guid: 17b42c995768d49e6b5aeaeb490c827f,
+        type: 2}
+    - needWatchAds: 1
+      rewardInfoBuilder: {fileID: 11400000, guid: c9e2fba1e43424c89b85db081dc92e58,
+        type: 2}
+    - needWatchAds: 0
+      rewardInfoBuilder: {fileID: 11400000, guid: 95ea6dc5594274c468bd3fbca8db2638,
+        type: 2}
+    - needWatchAds: 0
+      rewardInfoBuilder: {fileID: 11400000, guid: 55640512088a34f6e8755e8ffe72e357,
+        type: 2}
+    - needWatchAds: 1
+      rewardInfoBuilder: {fileID: 11400000, guid: 813c134521fd1437594170aa68c20eb3,
+        type: 2}
+  standardPipeline:
+    noAdsRewardInfoBuilderProbArray:
+    - probability: 45
+      rewardInfoBuilder: {fileID: 11400000, guid: 58064450aa8514190bbf72dd21c049b5,
+        type: 2}
+    - probability: 20
+      rewardInfoBuilder: {fileID: 11400000, guid: eaab1e1d691c04c64b9056162c02a7d1,
+        type: 2}
+    - probability: 20
+      rewardInfoBuilder: {fileID: 11400000, guid: b740418b1a02f46a58594552db21d207,
+        type: 2}
+    - probability: 10
+      rewardInfoBuilder: {fileID: 11400000, guid: 2cd9b9c06af73496993fdac12dbfad74,
+        type: 2}
+    - probability: 5
+      rewardInfoBuilder: {fileID: 11400000, guid: 444708cbeb41446a9b5cf5ebf2f84a8a,
+        type: 2}
+    adsRewardInfoBuilderProbArray: []
+  jackpotNotRequired: 1

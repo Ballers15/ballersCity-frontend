@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 35
+  m_EditorClassIdentifier: 
+  _id: card_idle_12_char_2
+  _name: Kamalli Payola
+  _description: "Just a nice girl at first sight, in reality she is one of the major
+    experts in public finance who calculates risks faster than any analyst can. Kamalli
+    chooses to stay out of the politics, but she always cooperates with the authorities.
+    If you ask a king of the underworld, though, what he thinks of Payola, he\u2019ll
+    tell you that it\u2019s actually the authorities that follow her lead."
+  _sortingOrder: 35
+  _activeSprite: {fileID: 21300000, guid: 42b56a6e200d5974692a856f0cd749ac, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 2e84e6574584f9048b284ef26c155a9f, type: 3}

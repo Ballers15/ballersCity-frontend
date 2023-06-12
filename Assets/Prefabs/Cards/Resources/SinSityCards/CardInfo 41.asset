@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 41
+  m_EditorClassIdentifier: 
+  _id: card_idle_14_char_2
+  _name: 'Angie Barreru '
+  _description: "Growing coca and making drugs is just part of the job. Drugs have
+    to be sold somehow. That\u2019s what Escobar\u2019s aunt Angie Barreru does.
+    She used to bend her back on plantations in the past, and she didn\u2019t lose
+    her skills. She plants her infiltrators in the neighboring areas, just like seeds,
+    helping them take root in the local criminal world. After a while, a network
+    of loyal people, like mycelium, spreads all over the area and turns into a powerful
+    trafficking organization."
+  _sortingOrder: 41
+  _activeSprite: {fileID: 21300000, guid: 78e4c0200e1552d4c8ea232b96502293, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: c672138de2ee23d448a5f97e34658e52, type: 3}

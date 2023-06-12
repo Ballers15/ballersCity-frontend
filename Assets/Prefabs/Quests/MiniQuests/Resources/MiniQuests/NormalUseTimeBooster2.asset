@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a72d1f2ab834108946fb37ecbe829e, type: 3}
+  m_Name: NormalUseTimeBooster2
+  m_EditorClassIdentifier: 
+  m_id: mq_normal_use_time_booster2
+  m_titleCode: USE_TIMEBOOSTER
+  m_descriptionCode: 
+  m_rewardInfo: {fileID: 11400000, guid: 5ea5de175a4c8c845b4a9007b4b317c7, type: 2}
+  difficulty: 1
+  m_minTimes: 1
+  m_maxTimes: 2

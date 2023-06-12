@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AtlasFortuneWheel
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 014e2f17daab04a489b08829be8c84a6, type: 3}
+    - {fileID: 2800000, guid: 3764298045cb0eb42a2f1f7e4b2d13a8, type: 3}
+    - {fileID: 2800000, guid: ab53f2a8b5c0a0a43927fa6cf0d8a10a, type: 3}
+    - {fileID: 2800000, guid: 77910e3ec8b792449a45008c30ff9a54, type: 3}
+    - {fileID: 2800000, guid: e4de3932b5def0b4d9fb525c0a4c5874, type: 3}
+    - {fileID: 2800000, guid: 425f82ae595718a439b390320262a036, type: 3}
+    - {fileID: 2800000, guid: 218c49c1b21ef89459fa5c93cf8e5141, type: 3}
+    - {fileID: 2800000, guid: e5fb3caca069fb043bd2ad26b45be13c, type: 3}
+    - {fileID: 2800000, guid: 86799a7f2812a424dbaffe172cf6086f, type: 3}
+    - {fileID: 2800000, guid: dc813629425b2524c86131dcbb46c674, type: 3}
+    - {fileID: 2800000, guid: 46ddaf01a4f43e245b3ef09b9c8627b4, type: 3}
+    - {fileID: 2800000, guid: c05866c175c0c6b4ba3b1bf78d3a0620, type: 3}
+    totalSpriteSurfaceArea: 894307
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3764298045cb0eb42a2f1f7e4b2d13a8, type: 3}
+  - {fileID: 21300000, guid: 46ddaf01a4f43e245b3ef09b9c8627b4, type: 3}
+  - {fileID: 21300000, guid: c05866c175c0c6b4ba3b1bf78d3a0620, type: 3}
+  - {fileID: 21300000, guid: 218c49c1b21ef89459fa5c93cf8e5141, type: 3}
+  - {fileID: 21300000, guid: e4de3932b5def0b4d9fb525c0a4c5874, type: 3}
+  - {fileID: 21300000, guid: 014e2f17daab04a489b08829be8c84a6, type: 3}
+  - {fileID: 21300000, guid: ab53f2a8b5c0a0a43927fa6cf0d8a10a, type: 3}
+  - {fileID: 21300000, guid: dc813629425b2524c86131dcbb46c674, type: 3}
+  - {fileID: 21300000, guid: e5fb3caca069fb043bd2ad26b45be13c, type: 3}
+  - {fileID: 21300000, guid: 77910e3ec8b792449a45008c30ff9a54, type: 3}
+  - {fileID: 21300000, guid: 425f82ae595718a439b390320262a036, type: 3}
+  - {fileID: 21300000, guid: 86799a7f2812a424dbaffe172cf6086f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - FW_back glow
+  - FW_PARTICLE
+  - FW_yellow back
+  - FW_light off
+  - FW_glow new
+  - FW_arrow
+  - FW_big particle for background
+  - FW_Obodok
+  - FW_light
+  - FW_bolt
+  - FW_Pin
+  - FW_main part new
+  m_Tag: AtlasFortuneWheel
+  m_IsVariant: 0

@@ -1,0 +1,87 @@
+EvaVagner.png
+size:648,648
+filter:Linear,Linear
+pma:true
+scale:0.5
+1
+bounds:533,80,58,34
+2
+bounds:522,23,32,55
+Arm_L2
+bounds:533,116,55,84
+BL
+bounds:499,426,25,15
+rotate:90
+BR
+bounds:289,271,23,14
+Cabel
+bounds:269,30,146,162
+EL
+bounds:590,116,21,18
+rotate:90
+ER
+bounds:93,2,19,14
+rotate:90
+Head
+bounds:470,280,131,146
+rotate:90
+Laptop 1
+bounds:417,20,103,78
+Laptop 2
+bounds:618,294,117,21
+rotate:90
+Lights
+bounds:417,100,114,100
+Lights Copy
+bounds:470,416,27,35
+Lights Copy 2
+bounds:259,260,25,28
+rotate:90
+Lights Copy 3
+bounds:556,50,25,28
+PL
+bounds:109,4,17,17
+Screen light
+bounds:2,447,267,199
+Screen light2
+bounds:2,23,169,265
+rotate:90
+Server
+bounds:516,510,117,136
+Shadow
+bounds:201,260,185,56
+rotate:90
+Top
+bounds:2,194,197,251
+Wheel
+bounds:2,2,19,28
+rotate:90
+Wheels
+bounds:316,205,150,94
+arm_L
+bounds:201,194,101,64
+arm_R
+bounds:590,139,44,59
+arm_R2
+bounds:601,200,34,78
+back
+bounds:516,413,125,95
+body
+bounds:271,453,193,243
+rotate:90
+hair
+bounds:316,301,152,150
+leg_L
+bounds:259,287,158,55
+rotate:90
+leg_R
+bounds:468,202,131,76
+mouth
+bounds:556,30,18,18
+pR
+bounds:618,280,10,12
+rope1
+bounds:32,8,13,59
+rotate:90
+rope2
+bounds:635,596,11,50

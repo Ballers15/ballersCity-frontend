@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0b519ebad5649c88063335566c4f651, type: 3}
+  m_Name: DefaultLevelUnlockConfig
+  m_EditorClassIdentifier: 
+  rewardInfoSet:
+  - {fileID: 11400000, guid: 7e227de82c0abf946af041a8ed51a539, type: 2}
+  - {fileID: 11400000, guid: 1130e96f753c247728c08b236f8859cd, type: 2}

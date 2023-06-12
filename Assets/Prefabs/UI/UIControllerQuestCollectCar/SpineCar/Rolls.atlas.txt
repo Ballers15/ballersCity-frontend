@@ -1,0 +1,16 @@
+Rolls.png
+size:1322,1322
+filter:Linear,Linear
+pma:true
+Back
+bounds:181,1073,947,171
+Body
+bounds:2,678,1154,393
+Shadow
+bounds:2,1246,1160,74
+Smoke
+bounds:2,1085,177,159
+Wheel 1
+bounds:1164,1165,156,155
+Wheel 2
+bounds:1164,1165,156,155

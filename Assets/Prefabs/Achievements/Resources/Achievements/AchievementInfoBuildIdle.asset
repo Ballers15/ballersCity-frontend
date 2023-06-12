@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39458fcd461332344b0196daa76fb155, type: 3}
+  m_Name: AchievementInfoBuildIdle
+  m_EditorClassIdentifier: 
+  m_id: CgkIkfWUrucQEAIQCQ
+  m_name: A kind of a forester
+  m_descr: Build a Forest
+  m_isHidden: 0
+  m_icon: {fileID: 0}
+  needToBuildIdleId: io_6
+  needToBuildCount: 0

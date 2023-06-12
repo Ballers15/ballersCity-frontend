@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 151d7612182a19045a1e8195cd14ab0d, type: 3}
+  m_Name: LoadingTextPool
+  m_EditorClassIdentifier: 
+  loadingTexts:
+  - keyword: home
+    loadingText: As far back as I can remember, I always wanted to be a gangster.
+  - keyword: server
+    loadingText: They feared me because I feared Nothing.
+  - keyword: login
+    loadingText: "Somebody messes with me, I\u2019m gonna mess with them."
+  - keyword: opponents
+    loadingText: "There\u2019s no such thing as good money or bad money. There\u2019s
+      just money."
+  - keyword: multiplayer
+    loadingText: Train yourself to let go of everything you fear to lose.
+  - keyword: arcadia
+    loadingText: Always forgive your enemies; nothing annoys them so much.
+  - keyword: boreas
+    loadingText: "You have enemies? Good. That means you\u2019ve stood up for something,
+      sometime in your life."
+  - keyword: hades
+    loadingText: "I\u2019m the king of the town you can take a look around."
+  - keyword: notus
+    loadingText: Be you the world will adjust.

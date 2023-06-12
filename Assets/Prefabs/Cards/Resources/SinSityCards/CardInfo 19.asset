@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 19
+  m_EditorClassIdentifier: 
+  _id: card_idle_7_char_1
+  _name: Tiger
+  _description: "He is a unique robber for Little Swiss. At least once a month Tiger
+    and his gang prove that no super protected facility equipped with drones, electronic
+    tracking devices and a satellite targeting system can withstand an ordinary pickaxe
+    and some dynamite. The more complicated a security system is, the simpler and
+    more genius will be his choice of robbery methods. Tiger reached the peak of
+    his skills when he imitated an attempt of breaking into the vault of a large
+    bank so that later he could get into it with his gang under the disguise of the
+    police and get out several bags with \u201Cphysical evidence\u201D."
+  _sortingOrder: 19
+  _activeSprite: {fileID: 21300000, guid: a84b532e25e6b2a4483fc6de12e4f509, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: bf0c9b3a16a57ea4ca8f45d4c5593963, type: 3}

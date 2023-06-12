@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 48
+  m_EditorClassIdentifier: 
+  _id: card_idle_16_char_3
+  _name: Rocinha
+  _description: "Officially, Rocinha is not a member of any gang. No one knows her
+    goals, patrons or allies. But sometimes, at a high point of a turf war, people
+    may see a girl dressed as Carmen with two Uzis in her hands spinning around amidst
+    fire and smoke and then disappearing into thin air. After that, the Favela becomes
+    peaceful, at least for a little while. Old folks say that she is the soul of
+    the Favela that comes into its streets to calm down its children in the most
+    merciful way\u2026"
+  _sortingOrder: 48
+  _activeSprite: {fileID: 21300000, guid: 0b9d51c15db4d91429d3311c389d84fa, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: ee02ca6dfd0c33844aebff5474a8f7ad, type: 3}

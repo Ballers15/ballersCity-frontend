@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 22
+  m_EditorClassIdentifier: 
+  _id: card_idle_8_char_1
+  _name: "Joe \u201CZealot\u201D"
+  _description: "Joe is a typical train robber in the Wild West, and he\u2019s proud
+    of it. God knows what he would do, if the railroad from Little Swiss to the Silicon
+    Valley didn\u2019t run through his area. But there are no other roads between
+    the two locations because of the mountain range. Joe is a real fan of expensive
+    phones and robs trains only to get new gadgets. And he is always happy to make
+    a selfie with some tourists in a saloon on his new iPhone."
+  _sortingOrder: 22
+  _activeSprite: {fileID: 21300000, guid: 4d04c490086a98748ac125fe975ce868, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: 3385a62d7080d434b8f9b3bbffb6e424, type: 3}

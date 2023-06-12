@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e76e43e7c3504d4ba9186d861c5efbc2, type: 3}
+  m_Name: CardInfo 30
+  m_EditorClassIdentifier: 
+  _id: card_idle_10_char_3
+  _name: Mo Li Hua
+  _description: "Triads are conservative and patriotic, after all it\u2019s the oldest
+    \u201Cmafia\u201D not without a reason. But times change, and a girl named Mo
+    Li Hua, a political activist and environmentalist, became the head of a new gang.
+    She dyes her hair using most unusual colors, gets non-traditional tattoos and
+    has face piercings. A strange gang like that would not live a day, but \u2013
+    quite unexpectedly \u2013 the new triad won public support which forced old bandits
+    to accept the insolent girl as an equal."
+  _sortingOrder: 30
+  _activeSprite: {fileID: 21300000, guid: e68df9d6ae8ade74d976863d76191c60, type: 3}
+  _inactiveSprite: {fileID: 21300000, guid: e16b5433712fe59488fdaf1545bd6841, type: 3}

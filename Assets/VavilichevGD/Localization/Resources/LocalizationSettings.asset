@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be09561f4ec64da49a5944beb0948525, type: 3}
+  m_Name: LocalizationSettings
+  m_EditorClassIdentifier: 
+  languageSettings:
+  - m_code: RUS
+    m_language: 30
+    m_languageTitle: Russian
+    m_tableAsset: {fileID: 4900000, guid: 5d6d03385282e2c45ae33dce6d39fa25, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1jUPP1V7zR1A5_AdLDrk60uWgc_NMfUpEoaHN4sLpP4w
+  - m_code: ENG
+    m_language: 10
+    m_languageTitle: English
+    m_tableAsset: {fileID: 4900000, guid: 4ecf10987723f9948af660afa73802ca, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1gHZllucTRHPorjEnp3CwUZBp0zYH27Dc3Iv7iocE1YQ
+  - m_code: DEU
+    m_language: 15
+    m_languageTitle: German
+    m_tableAsset: {fileID: 4900000, guid: dc060c594423d8849bae875ca664b2f6, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1TBp0y8zoGufpMpdC34daocwHE_8KRkBreO8Vm2SjSQ0
+  - m_code: FRA
+    m_language: 14
+    m_languageTitle: French
+    m_tableAsset: {fileID: 4900000, guid: 316481b3be34372438250eb1a4ee038c, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1qLD-yhFYaDlkVBw90xLb6ftFyK8ZMiMQIh_kV9fhu68
+  - m_code: CHN (Land)
+    m_language: 40
+    m_languageTitle: Chinese
+    m_tableAsset: {fileID: 4900000, guid: 3187ba65fdc31194c84a9c9acd3119f2, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1tR6Isq5PU0T9nW7CWIYMbb95064lBM5AFiF-yfKa7So
+  - m_code: CHN (T)
+    m_language: 34
+    m_languageTitle: Taiwan
+    m_tableAsset: {fileID: 4900000, guid: f0b94cbc2e46a2e48a0782a56e2e3c74, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1CoHtoBMH0Zrl9u2W_56WdSbPPG0vjX3iUZq48QC0fO8
+  - m_code: ESP (LatAm)
+    m_language: 34
+    m_languageTitle: Spanish LA
+    m_tableAsset: {fileID: 4900000, guid: a8f8b3de856e0c345ae2798477e05de0, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1BzvoIhjgpFu5gvgOmXoARbAgLH_3OyImiupPl7aTjGk
+  - m_code: ESP (EU)
+    m_language: 34
+    m_languageTitle: Spanish
+    m_tableAsset: {fileID: 4900000, guid: 5c8347a4a8ed8f346806850e6d7e80bf, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1pLTr34j0KdPMciP6E8DwTCvYJW9GR0JIwuNE9r3e5l4
+  - m_code: HIN
+    m_language: 42
+    m_languageTitle: Hindi
+    m_tableAsset: {fileID: 4900000, guid: 3eef59edf26b5bd4f8f8e5ea14a7d994, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1kk5N6CNukxgpR7JndK1jqeFLXThUi_gZAONBA6gw9iI
+  - m_code: IND
+    m_language: 20
+    m_languageTitle: Indonesian
+    m_tableAsset: {fileID: 4900000, guid: b1e1cfdeac6a5f94698950ed429ddc24, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/19ixwXpvaljJmsoFIxmViE-AC1jlwWzoT1oLrvaMg_5E
+  - m_code: ITA
+    m_language: 21
+    m_languageTitle: Italian
+    m_tableAsset: {fileID: 4900000, guid: 7442303c8a173c44a9eabdf9180f843a, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1PwQtoUYkzae500RJgSMYQvR7Vt6t6TnRvGIsYjLNJAM
+  - m_code: JPN
+    m_language: 22
+    m_languageTitle: Japanese
+    m_tableAsset: {fileID: 4900000, guid: 35ec06a1ea937614dbdf6ce105b49616, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1UlKerk23MUWH60GGpz3CuPNHRyRCCZNzEEnB95B26xM
+  - m_code: KOR
+    m_language: 23
+    m_languageTitle: Korean
+    m_tableAsset: {fileID: 4900000, guid: 2490a1603b50a6e40bf8d2feac80ab0a, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1_dA16rmguoUUZQtC9o0FR_1IcfjjdS8nxq2LSiuQ3So
+  - m_code: MSA
+    m_language: 42
+    m_languageTitle: Malaysian
+    m_tableAsset: {fileID: 4900000, guid: 07087fdcb97edb64bb2e8f4677765d64, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1xUT8Eai6DhrIHYPR5zttv2pGnMvnLoDRkyl2Rg_JpZI
+  - m_code: POL
+    m_language: 27
+    m_languageTitle: Polish
+    m_tableAsset: {fileID: 4900000, guid: 042fadc19e77df94cbf3bae1420d61d2, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1gdW2myK-gFJYmxZ3JTMXPTLRAFodkiYyAT2I-BDLRHo
+  - m_code: POR (Bra)
+    m_language: 28
+    m_languageTitle: Portuguese Br
+    m_tableAsset: {fileID: 4900000, guid: ebce6aef260773342812793573840089, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/15p5bI8an5qLsZcANRDjgcuS7OI6ABuxLvItIYbay5p4
+  - m_code: POR (EU)
+    m_language: 28
+    m_languageTitle: Portuguese EU
+    m_tableAsset: {fileID: 4900000, guid: 78ddac7a3cb67cf40ba1cce922f5a689, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1jsni7RAlGlPoKuZlEu-r7QZjgCh-vHCv9pBZ0pA5eY4
+  - m_code: THA
+    m_language: 36
+    m_languageTitle: Thai
+    m_tableAsset: {fileID: 4900000, guid: cab3af91d96c99c47850a9e15f2357bb, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1-OUJXSAOjyK7uw9Y2938UnCAoKuAcAnKbxMg20cJmio
+  - m_code: TUR
+    m_language: 37
+    m_languageTitle: Turkish
+    m_tableAsset: {fileID: 4900000, guid: a3b184c5a18f8e54cbad92c94381fc28, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1h2PYprKxFvjSjkutd5oz27LwdvVRYHe0xNcN3o4pHdg
+  - m_code: VIE
+    m_language: 39
+    m_languageTitle: Vietnamese
+    m_tableAsset: {fileID: 4900000, guid: 9d4bcf16f220c614284372a1256b120a, type: 3}
+    m_urlGoogleSpreadsheet: https://docs.google.com/spreadsheets/d/1iSCzDPfm0JpvIDgYZTbadqGwbh6iAZbqpMSuGwxVcdc
